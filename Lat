@@ -1,0 +1,2795 @@
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="Channels",HBO POP HD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/7
+#EXTINF:0 tvg-id="ext" group-title="Channels",HBO Xtreme HD Dual Audio
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Tigo Sports (PY)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/9
+#EXTINF:0 tvg-id="ext" group-title="Channels",Tigo Sports 2 (C)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/10
+#EXTINF:0 tvg-id="ext" group-title="Channels",Tigo Sports 3 HD (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/11
+#EXTINF:0 tvg-id="ext" group-title="Channels",Tigo Sports 1 HD (CO)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/12
+#EXTINF:0 tvg-id="ext" group-title="Channels",Tigo Sports 1 HD (PY)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/13
+#EXTINF:0 tvg-id="ext" group-title="Channels",WWE Net (L)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/14
+#EXTINF:0 tvg-id="HBOFamilyHD.cl" group-title="Channels",HBO Family FHD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/15
+#EXTINF:0 tvg-id="ext" group-title="Channels",HBO + FHD (CO)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/16
+#EXTINF:0 tvg-id="SportsNetNewYork.us" group-title="Channels",Sportsnet 360
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/18
+#EXTINF:0 tvg-id="SportsNetEST.ca" group-title="Channels",Sportsnet East
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/19
+#EXTINF:0 tvg-id="SportsNetOne.ca" group-title="Channels",Sportsnet One
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/20
+#EXTINF:0 tvg-id="SportsnetWorld.ca" group-title="Channels",Sportsnet World
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/21
+#EXTINF:0 tvg-id="SportsNetOntario.ca" group-title="Channels",Sportsnet Ontario
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/22
+#EXTINF:0 tvg-id="SportsNetPacifique.ca" group-title="Channels",Sportsnet Pacific
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/23
+#EXTINF:0 tvg-id="TSN1.ca" group-title="Channels",TSN 1
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/24
+#EXTINF:0 tvg-id="TSN2.ca" group-title="Channels",TSN 2
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/25
+#EXTINF:0 tvg-id="TSN3.ca" group-title="Channels",TSN 3
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/26
+#EXTINF:0 tvg-id="TSN4.ca" group-title="Channels",TSN 4
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/27
+#EXTINF:0 tvg-id="TSN5.ca" group-title="Channels",TSN 5
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28
+#EXTINF:0 tvg-id="ext" group-title="Channels",FUTV FHD (CR) (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/29
+#EXTINF:0 tvg-id="ext" group-title="Channels",Spectrum SportsNet LA op2
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/31
+#EXTINF:0 tvg-id="Max.br" group-title="Channels",HBO Mundi
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/32
+#EXTINF:0 tvg-id="ext" group-title="Channels",FOX Sports MX
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/35
+#EXTINF:0 tvg-id="ext" group-title="Channels",FOX Sports 3 MX
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/37
+#EXTINF:0 tvg-id="ext" group-title="Channels",FOX Sports 1  HD (AR) (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/38
+#EXTINF:0 tvg-id="ext" group-title="Channels",FOX Sport 3 HD (AR) (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/40
+#EXTINF:0 tvg-id="ext" group-title="Channels",Directv Sports HD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/43
+#EXTINF:0 tvg-id="ext" group-title="Channels",Directv Sports 2 HD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/44
+#EXTINF:0 tvg-id="ext" group-title="Channels",Directv Sports + HD (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/45
+#EXTINF:0 tvg-id="ext" group-title="Channels",Directv Sports HD (AR)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/46
+#EXTINF:0 tvg-id="beINSPORTSenespanol467.us" group-title="Channels",BeIN Sports N
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/47
+#EXTINF:0 tvg-id="beINSPORTSenespanol.us" group-title="Channels",BeIN Sports EN EspaNol OP2
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/48
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeIN Sports la Liga (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/49
+#EXTINF:0 tvg-id="ext" group-title="Channels",Tigo Sports 2 (BO)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/55
+#EXTINF:0 tvg-id="ext" group-title="Channels",Tigo Sports 3 (BO) (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/56
+#EXTINF:0 tvg-id="ext" group-title="Channels",TNT Sports HD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/57
+#EXTINF:0 tvg-id="ext" group-title="Channels",CHILEVISION (CH)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/58
+#EXTINF:0 tvg-id="YESHD.us" group-title="Channels",YES Network
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/59
+#EXTINF:0 tvg-id="ext" group-title="Channels",UFC Fight Pass
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/60
+#EXTINF:0 tvg-id="BoxNation.uk" group-title="Channels",BOX Nation
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/61
+#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN 2 MX HD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/63
+#EXTINF:0 tvg-id="ESPNHD.mx" group-title="Channels",ESPN + HD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/65
+#EXTINF:0 tvg-id="ESPNDeportes.us" group-title="Channels",ESPN Deportes
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/66
+#EXTINF:0 tvg-id="ext" group-title="Channels",FOX SPORTS Deportes FHD (L)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/71
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canal Toros HD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/72
+#EXTINF:0 tvg-id="HBO2.pl" group-title="Channels",HBO 2 HD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/73
+#EXTINF:0 tvg-id="star-cinema" group-title="Channels",STAR Cinema FHD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/74
+#EXTINF:0 tvg-id="ext" group-title="Channels",STAR Classic HD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/75
+#EXTINF:0 tvg-id="ext" group-title="Channels",STAR Fun
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/76
+#EXTINF:0 tvg-id="ext" group-title="Channels",STAR Hits FHD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/77
+#EXTINF:0 tvg-id="ext" group-title="Channels",STAR Series FHD---
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/78
+#EXTINF:0 tvg-id="ext" group-title="Channels",STAR HD (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/79
+#EXTINF:0 tvg-id="ext" group-title="Channels",Golden Premiere HD (CO)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/80
+#EXTINF:0 tvg-id="ext" group-title="Channels",Golden Plus HD (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/81
+#EXTINF:0 tvg-id="ext" group-title="Channels",Space FHD (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/82
+#EXTINF:0 tvg-id="TCM.pl" group-title="Channels",TNT FHD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/83
+#EXTINF:0 tvg-id="TNTSeries.cl" group-title="Channels",TNT Series HD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/84
+#EXTINF:0 tvg-id="ext" group-title="Channels",Univision Puerto Rico HD (n)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/98
+#EXTINF:0 tvg-id="ext" group-title="Channels",T-MUNDO San Juan Local
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/99
+#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN (AR)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/109
+#EXTINF:0 tvg-id="ext" group-title="Channels",PPVs | NBA TV FHD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/113
+#EXTINF:0 tvg-id="ext" group-title="Channels",PPVs | MLB (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/114
+#EXTINF:0 tvg-id="ESPN3.mx" group-title="Channels",ESPN 3
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/125
+#EXTINF:0 tvg-id="ext" group-title="Channels",F 1 Movistar
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/126
+#EXTINF:0 tvg-id="GolfChannel.us" group-title="Channels",Golf Channel FHD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/127
+#EXTINF:0 tvg-id="ext" group-title="Channels",Gol Peru FHD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/128
+#EXTINF:0 tvg-id="GolTV.us" group-title="Channels",GOLTV US
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/129
+#EXTINF:0 tvg-id="ext" group-title="Channels",Gol TV (EC) (R) (SOLO EVENTOS)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/130
+#EXTINF:0 tvg-id="ext" group-title="Channels",Teleislas Puerto Rico
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/135
+#EXTINF:0 tvg-id="ext" group-title="Channels",TVC Deportes HD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/137
+#EXTINF:0 tvg-id="TyCSports.ar" group-title="Channels",TyC Sports HD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/139
+#EXTINF:0 tvg-id="ext" group-title="Channels",Fight Network US
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/140
+#EXTINF:0 tvg-id="ext" group-title="Channels",STAR Action FHD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/142
+#EXTINF:0 tvg-id="ext" group-title="Channels",Win Sports  (CO)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/143
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canal 5  Deportes
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/157
+#EXTINF:0 tvg-id="ext" group-title="Channels",PPVs | Sport TV NBA (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/168
+#EXTINF:0 tvg-id="SkySpF1.uk" group-title="Channels",SKY Sports F1
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/171
+#EXTINF:0 tvg-id="ext" group-title="Channels",The Golf Channel HD (B)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/172
+#EXTINF:0 tvg-id="ext" group-title="Channels",Starz Latino FHD (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/175
+#EXTINF:0 tvg-id="ext" group-title="Channels",Starz Black Latino (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/177
+#EXTINF:0 tvg-id="ext" group-title="Channels",Starz Cinema HD Latino
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/178
+#EXTINF:0 tvg-id="ext" group-title="Channels",Starz Encore Classics FHD Latino
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/179
+#EXTINF:0 tvg-id="ext" group-title="Channels",Starz Edge FHD Latino
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/180
+#EXTINF:0 tvg-id="ext" group-title="Channels",Showtime FHD Latino
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/181
+#EXTINF:0 tvg-id="ext" group-title="Channels",Showtime Beyond FHD Latino
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/183
+#EXTINF:0 tvg-id="ext" group-title="Channels",Showtime 2 FHD Latino
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/184
+#EXTINF:0 tvg-id="ext" group-title="Channels",Showtime Extreme HD Latino
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/185
+#EXTINF:0 tvg-id="ext" group-title="Channels",HBO Signature HD-
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/298
+#EXTINF:0 tvg-id="StarzEncore.us" group-title="Channels",Starz Encore FHD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/299
+#EXTINF:0 tvg-id="ext" group-title="Channels",HBO FHD (CO)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/300
+#EXTINF:0 tvg-id="ext" group-title="Channels",HBO 2 (CO)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/302
+#EXTINF:0 tvg-id="ext" group-title="Channels",HBO Family FHD (CO)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/306
+#EXTINF:0 tvg-id="ext" group-title="Channels",HBO Plus FHD (CO)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/307
+#EXTINF:0 tvg-id="ext" group-title="Channels",STAR Hits FHD (CO)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/308
+#EXTINF:0 tvg-id="ext" group-title="Channels",PPVs | NHL TV OnDemand
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/309
+#EXTINF:0 tvg-id="CineMAX.ro" group-title="Channels",Cinemax FHD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/323
+#EXTINF:0 tvg-id="ext" group-title="Channels",STAR Hits HD (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/339
+#EXTINF:0 tvg-id="ext" group-title="Channels",Golden Premiere FHD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/340
+#EXTINF:0 tvg-id="ext" group-title="Channels",T-MUNDO Puerto Rico Op2 (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/343
+#EXTINF:0 tvg-id="AMC.uk" group-title="Channels",AMC HD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/632
+#EXTINF:0 tvg-id="ext" group-title="Channels",STAR FOX HD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/631
+#EXTINF:0 tvg-id="ext" group-title="Channels",AZTECA UNO HD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/725
+#EXTINF:0 tvg-id="ext" group-title="Channels",HBO 2 HD (MX)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/728
+#EXTINF:0 tvg-id="ext" group-title="Channels",STAR Fun (MX))
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/729
+#EXTINF:0 tvg-id="ext" group-title="Channels",STAR  Series HD (MX)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/732
+#EXTINF:0 tvg-id="ext" group-title="Channels",STAR Series HD SUB (MX)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/733
+#EXTINF:0 tvg-id="ext" group-title="Channels",STAR Cinema HD (MX) (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/734
+#EXTINF:0 tvg-id="ext" group-title="Channels",STAR HITS HD (MX) (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/736
+#EXTINF:0 tvg-id="ext" group-title="Channels",STAR Classics HD (MX) (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/737
+#EXTINF:0 tvg-id="ext" group-title="Channels",STAR HD (MX)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/739
+#EXTINF:0 tvg-id="ext" group-title="Channels",STAR LIFE HD (MX)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/740
+#EXTINF:0 tvg-id="ext" group-title="Channels",HBO HD (MX) (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/741
+#EXTINF:0 tvg-id="ext" group-title="Channels",HBO SIGNATURE HD (MX)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/744
+#EXTINF:0 tvg-id="ext" group-title="Channels",HBO Xtreme HD (MX) (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/746
+#EXTINF:0 tvg-id="ext" group-title="Channels",4K | HBO Mundi (1920P | 29 FPS) (C)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/747
+#EXTINF:0 tvg-id="ext" group-title="Channels",HBO Pop HD (MX) (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/748
+#EXTINF:0 tvg-id="ext" group-title="Channels",T-MUNDO 20 (San Diego)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/85
+#EXTINF:0 tvg-id="ext" group-title="Channels",T-MUNDO 39 (Phoenix ) (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/86
+#EXTINF:0 tvg-id="ext" group-title="Channels",T-Mundo 47 (New York)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/87
+#EXTINF:0 tvg-id="ext" group-title="Channels",T-MUNDO 52 (Los angeles)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/88
+#EXTINF:0 tvg-id="ext" group-title="Channels",T-MUNDO International (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/91
+#EXTINF:0 tvg-id="ext" group-title="Channels",SKY Sports 21 HD MX (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/749
+#EXTINF:0 tvg-id="ext" group-title="Channels",AZTECA UNO SD (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/750
+#EXTINF:0 tvg-id="ext" group-title="Channels",FOX SPORTS 3 Mex (ENCODER ) (HEVC H.265 / 50 FPS)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/3042
+#EXTINF:0 tvg-id="ext" group-title="Channels",FOX SPORTS 1  Mex (ENCODER ) (HEVC H.265 / 50 FPS)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/3040
+#EXTINF:0 tvg-id="ext" group-title="Channels",TLC Latino HD America
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/3534
+#EXTINF:0 tvg-id="ext" group-title="Channels",Starz Family & Kids FHD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/422
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Baby First EN
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/432
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 ALF
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/433
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 EBS Kids EN
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/435
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Tom & Jerry TV EN
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/437
+#EXTINF:0 tvg-id="ext" group-title="Channels",FOX Sports 1 HD Latino
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/543
+#EXTINF:0 tvg-id="ext" group-title="Channels",FOX Sports 2 SD Latino
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/544
+#EXTINF:0 tvg-id="ext" group-title="Channels",NFL RedZone HD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/588
+#EXTINF:0 tvg-id="Viajar.sp" group-title="Channels",Viajar FHD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/626
+#EXTINF:0 tvg-id="OnceTV.mx" group-title="Channels",Once TV
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/613
+#EXTINF:0 tvg-id="AXNWhite.es" group-title="Channels",AXN White FHD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/628
+#EXTINF:0 tvg-id="ext" group-title="Channels",Calle 13 HD (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/629
+#EXTINF:0 tvg-id="hollywood.pt" group-title="Channels",Hollywood HD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/630
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeIN La Liga (L)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/634
+#EXTINF:0 tvg-id="Space.br" group-title="Channels",Space SD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/637
+#EXTINF:0 tvg-id="ext" group-title="Channels",T-MUNDO (KTAZ_Tucson_Arizona)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/645
+#EXTINF:0 tvg-id="ext" group-title="Channels",AZTECA UNO -2 HORAS (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/648
+#EXTINF:0 tvg-id="tnt" group-title="Channels",TNT SD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/651
+#EXTINF:0 tvg-id="E.uk" group-title="Channels",E! Entertainment
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/652
+#EXTINF:0 tvg-id="AandE.es" group-title="Channels",AE SD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/654
+#EXTINF:0 tvg-id="AMC.uk" group-title="Channels",AMC HD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/655
+#EXTINF:0 tvg-id="ext" group-title="Channels",AXN HD (r)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/657
+#EXTINF:0 tvg-id="FilmArts.br" group-title="Channels",Film Arts
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/658
+#EXTINF:0 tvg-id="FXHD.mx" group-title="Channels",FX HD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/660
+#EXTINF:0 tvg-id="ext" group-title="Channels",Cinecanal HD (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/661
+#EXTINF:0 tvg-id="CineMAX.ro" group-title="Channels",Cinemax HD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/668
+#EXTINF:0 tvg-id="ext" group-title="Channels",TNT HD Arg
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/672
+#EXTINF:0 tvg-id="Universal.uk" group-title="Channels",Universal Channel
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/674
+#EXTINF:0 tvg-id="StudioUniversalHD.cl" group-title="Channels",Studio Universal HD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/675
+#EXTINF:0 tvg-id="SCIFI.uk" group-title="Channels",SyFy
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/676
+#EXTINF:0 tvg-id="24dok" group-title="Channels",TBS
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/677
+#EXTINF:0 tvg-id="ext" group-title="Channels",T-MUNDO International HD (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/679
+#EXTINF:0 tvg-id="ext" group-title="Channels",TELEVISA Monterrey (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/680
+#EXTINF:0 tvg-id="ext" group-title="Channels",Afiizzionados FHD (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/683
+#EXTINF:0 tvg-id="TeleFormula.mx" group-title="Channels",Teleformula
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/684
+#EXTINF:0 tvg-id="ext" group-title="Channels",TyCSport
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/685
+#EXTINF:0 tvg-id="ext" group-title="Channels",NatGeo Kids (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/690
+#EXTINF:0 tvg-id="ext" group-title="Channels",FOX Sports Premium HD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/692
+#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN FHD (L)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/697
+#EXTINF:0 tvg-id="ext" group-title="Channels",TSN 1 HD (CA)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2242
+#EXTINF:0 tvg-id="Rai4.it" group-title="Channels",RAI 4 FHD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2240
+#EXTINF:0 tvg-id="Rai3.it" group-title="Channels",RAI 3 HD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2236
+#EXTINF:0 tvg-id="Rai2.it" group-title="Channels",RAI 2 HD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2235
+#EXTINF:0 tvg-id="Rai1.it" group-title="Channels",RAI 1 HD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2234
+#EXTINF:0 tvg-id="ext" group-title="Channels",Rai Italia HD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2233
+#EXTINF:0 tvg-id="TruTVHD.mx" group-title="Channels",TruTV HD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2224
+#EXTINF:0 tvg-id="HistoryHD.eur" group-title="Channels",History channel HD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2231
+#EXTINF:0 tvg-id="ext" group-title="Channels",MEXIQUENSE
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2222
+#EXTINF:0 tvg-id="ext" group-title="Channels",INGENIO TV
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2221
+#EXTINF:0 tvg-id="ext" group-title="Channels",Antena 3 HD Latino
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2220
+#EXTINF:0 tvg-id="ext" group-title="Channels",A+
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2219
+#EXTINF:0 tvg-id="ImagenTV.mx" group-title="Channels",Imagen Television
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/992
+#EXTINF:0 tvg-id="HolaTV.us" group-title="Channels",Hola TV
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/991
+#EXTINF:0 tvg-id="ext" group-title="Channels",WIPR
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/986
+#EXTINF:0 tvg-id="ext" group-title="Channels",ADN 40 HD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/983
+#EXTINF:0 tvg-id="NickJunior.uk" group-title="Channels",Nick JR
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/982
+#EXTINF:0 tvg-id="ext" group-title="Channels",Univison (WLTV-Miami-Ft._Lauderdale)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/989
+#EXTINF:0 tvg-id="DiscoveryKidsHD.pe" group-title="Channels",Discovery KIds HD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/976
+#EXTINF:0 tvg-id="ext" group-title="Channels",Disney XD HD---
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/975
+#EXTINF:0 tvg-id="Boomerang.uk" group-title="Channels",Boomerang
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/977
+#EXTINF:0 tvg-id="Babyfirstenglish.hu" group-title="Channels",Babyfirst
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/978
+#EXTINF:0 tvg-id="CartoonNetwork.uk" group-title="Channels",Cartoon Network HD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/979
+#EXTINF:0 tvg-id="Nickelodeon.uk" group-title="Channels",Nick HD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/980
+#EXTINF:0 tvg-id="ext" group-title="Channels",Nick 2 HD (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/981
+#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL 5 HD (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/970
+#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL 5 SD (DA)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/969
+#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL 5 LQ
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/968
+#EXTINF:0 tvg-id="ext" group-title="Channels",LAS ESTRELLAS LQ
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/967
+#EXTINF:0 tvg-id="MilenioTV.mx" group-title="Channels",MILENIO TV HD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/971
+#EXTINF:0 tvg-id="ext" group-title="Channels",Mulltimedio TV FHD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/972
+#EXTINF:0 tvg-id="Disney.uk" group-title="Channels",Disney Channel
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/973
+#EXTINF:0 tvg-id="DisneyJunior.uk" group-title="Channels",Disney Junior
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/974
+#EXTINF:0 tvg-id="ext" group-title="Channels",AZTECA 7 LQ (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/963
+#EXTINF:0 tvg-id="H2.uk" group-title="Channels",H2 HD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/753
+#EXTINF:0 tvg-id="ext" group-title="Channels",LAS ESTRELLAS HD (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/964
+#EXTINF:0 tvg-id="ext" group-title="Channels",LAS ESTRELLAS SD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/965
+#EXTINF:0 tvg-id="ext" group-title="Channels",LAS ESTRELLAS HD - 2 HORAS HD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/966
+#EXTINF:0 tvg-id="ext" group-title="Channels",HBO HD SUB (MX)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/742
+#EXTINF:0 tvg-id="ext" group-title="Channels",STAR Comedy HD (MX)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/738
+#EXTINF:0 tvg-id="ext" group-title="Channels",STAR  Action HD (MX)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/730
+#EXTINF:0 tvg-id="ext" group-title="Channels",STAR Action Mexico HD_
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/731
+#EXTINF:0 tvg-id="ext" group-title="Channels",AZTECA 7  HD (B)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/726
+#EXTINF:0 tvg-id="ext" group-title="Channels",HBO Family FHD (MX)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/727
+#EXTINF:0 tvg-id="ext" group-title="Channels",Mega TV Puerto Rico (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/723
+#EXTINF:0 tvg-id="ext" group-title="Channels",Univsion Puerto Rico
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/722
+#EXTINF:0 tvg-id="ext" group-title="Channels",Wapa Puerto Rico
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/720
+#EXTINF:0 tvg-id="ext" group-title="Channels",Wapa Deporte 2 (L)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/721
+#EXTINF:0 tvg-id="ext" group-title="Channels",ID HD (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/718
+#EXTINF:0 tvg-id="ext" group-title="Channels",Discovery Turbo HD (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/717
+#EXTINF:0 tvg-id="DiscoveryHD.uk" group-title="Channels",Discovery HD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/713
+#EXTINF:0 tvg-id="WarnerHD.mx" group-title="Channels",Warner HD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/714
+#EXTINF:0 tvg-id="ext" group-title="Channels",NatGeo FHD (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/715
+#EXTINF:0 tvg-id="ext" group-title="Channels",Animal Planet HD (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/716
+#EXTINF:0 tvg-id="NatGeoWild.uk" group-title="Channels",Nat Geo Wild HD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/712
+#EXTINF:0 tvg-id="ext" group-title="Channels",AZTECA UNO LQ
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/711
+#EXTINF:0 tvg-id="ext" group-title="Channels",Fox Sports 3 SD Latino
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/701
+#EXTINF:0 tvg-id="ext" group-title="Channels",AZTECA 7 SD (DA)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/709
+#EXTINF:0 tvg-id="ext" group-title="Channels",TVC DEPORTES (r)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/710
+#EXTINF:0 tvg-id="ext" group-title="Channels",Fox Sports 2 SD Latino
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/700
+#EXTINF:0 tvg-id="ext" group-title="Channels",TSN 2 HD (CA)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2243
+#EXTINF:0 tvg-id="ext" group-title="Channels",TSN 3 HD (CA)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2244
+#EXTINF:0 tvg-id="ext" group-title="Channels",TSN 4 HD (CA)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2245
+#EXTINF:0 tvg-id="ext" group-title="Channels",TSN 5 HD (CA)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2246
+#EXTINF:0 tvg-id="ext" group-title="Channels",HBO HD (CA)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2247
+#EXTINF:0 tvg-id="ext" group-title="Channels",A&E HD (CA)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2248
+#EXTINF:0 tvg-id="ext" group-title="Channels",FX HD (CA) (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2249
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sportsnet 360 (CA)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2250
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sportsnet One (CA)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2251
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sportsnet Pacific (CA)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2252
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sportsnet East (CA)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2253
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sportsnet Ontario (CA)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2254
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sportsnet World (CA)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2255
+#EXTINF:0 tvg-id="ext" group-title="Channels",HBO HD (BR)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2257
+#EXTINF:0 tvg-id="ext" group-title="Channels",HBO 2 HD (BR)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2258
+#EXTINF:0 tvg-id="ext" group-title="Channels",HBO Family HD (BR)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2259
+#EXTINF:0 tvg-id="ext" group-title="Channels",Megapix HD (BR)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2260
+#EXTINF:0 tvg-id="ext" group-title="Channels",Telecine Premium HD (BR)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2261
+#EXTINF:0 tvg-id="ext" group-title="Channels",History HD (BR)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2263
+#EXTINF:0 tvg-id="ext" group-title="Channels",Lifetime HD (BR)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2264
+#EXTINF:0 tvg-id="ext" group-title="Channels",Comedia Central (BR)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2269
+#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN (BR)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2270
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Chile (CH)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2279
+#EXTINF:0 tvg-id="ext" group-title="Channels",Campus (CH)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2280
+#EXTINF:0 tvg-id="ext" group-title="Channels",El Pinguino TV (CH)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2281
+#EXTINF:0 tvg-id="ext" group-title="Channels",Quinta TV (CH)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2282
+#EXTINF:0 tvg-id="ext" group-title="Channels",UESTV (CH)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2284
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Galicia HD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2287
+#EXTINF:0 tvg-id="ext" group-title="Channels",Tele Medellin (CO)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2291
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canal Doce (CO)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2292
+#EXTINF:0 tvg-id="ext" group-title="Channels",RCN FHD (CO)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2293
+#EXTINF:0 tvg-id="ext" group-title="Channels",Telecaribe (CO)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2294
+#EXTINF:0 tvg-id="ext" group-title="Channels",Telecaribe FHD (CO)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2295
+#EXTINF:0 tvg-id="ext" group-title="Channels",City TV (CO)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2296
+#EXTINF:0 tvg-id="ext" group-title="Channels",TELEANTIOQUIA (CO)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2298
+#EXTINF:0 tvg-id="ext" group-title="Channels",ColorVision(RD)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2300
+#EXTINF:0 tvg-id="ext" group-title="Channels",Microvision 10 (RD)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2301
+#EXTINF:0 tvg-id="ext" group-title="Channels",Telecentro HD (RD)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2302
+#EXTINF:0 tvg-id="ext" group-title="Channels",RPC (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2303
+#EXTINF:0 tvg-id="ext" group-title="Channels",GEN
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2304
+#EXTINF:0 tvg-id="ext" group-title="Channels",Cultura 24 TV (N)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2307
+#EXTINF:0 tvg-id="ext" group-title="Channels",#Vamos HD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2313
+#EXTINF:0 tvg-id="ext" group-title="Channels",EN | STARZ LATINO East (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2314
+#EXTINF:0 tvg-id="ext" group-title="Channels",EN | STARZ ENCORE SUSPENSE (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2315
+#EXTINF:0 tvg-id="ext" group-title="Channels",EN | STARZ ENCORE WESTERN (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2316
+#EXTINF:0 tvg-id="ext" group-title="Channels",EN | STARZ ENCORE FAMILY (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2317
+#EXTINF:0 tvg-id="ext" group-title="Channels",EN | STARZ ENCORE EAST (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2318
+#EXTINF:0 tvg-id="ext" group-title="Channels",EN | STARZ ENCORE WEST (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2319
+#EXTINF:0 tvg-id="ext" group-title="Channels",EN | STARZ ENCORE BLACK (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2320
+#EXTINF:0 tvg-id="ext" group-title="Channels",EN | STARZ EDGE US (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2321
+#EXTINF:0 tvg-id="ext" group-title="Channels",EN | STARZ COMEDY US (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2322
+#EXTINF:0 tvg-id="ext" group-title="Channels",EN | STARZ CINEMA US (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2323
+#EXTINF:0 tvg-id="ext" group-title="Channels",EN | STARZ KIDS & FAMILY (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2324
+#EXTINF:0 tvg-id="ext" group-title="Channels",EN | STARZ IN BLACK USA (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2325
+#EXTINF:0 tvg-id="ext" group-title="Channels",EN | SHOWTIME TIME EAST (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2326
+#EXTINF:0 tvg-id="ext" group-title="Channels",EN | SHOWTIME 2 EAST (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2327
+#EXTINF:0 tvg-id="ext" group-title="Channels",EN | SHOWTIME XTREME (r)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2328
+#EXTINF:0 tvg-id="ext" group-title="Channels",EN | SHOWTIME BEYOND (N)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2329
+#EXTINF:0 tvg-id="ext" group-title="Channels",EN | SHOWTIME WOMEN (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2330
+#EXTINF:0 tvg-id="ext" group-title="Channels",EN | SHOWTIME FAMILY (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2331
+#EXTINF:0 tvg-id="ext" group-title="Channels",EN | SHOWTIME NEXT (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2332
+#EXTINF:0 tvg-id="ext" group-title="Channels",EN | SHOWTIME SHOWCASE (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2333
+#EXTINF:0 tvg-id="ext" group-title="Channels",EN | HBO East (r)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2334
+#EXTINF:0 tvg-id="ext" group-title="Channels",EN | HBO 2 US East (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2335
+#EXTINF:0 tvg-id="ext" group-title="Channels",EN | HBO Zone East (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2336
+#EXTINF:0 tvg-id="ext" group-title="Channels",EN | HBO Signature East (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2337
+#EXTINF:0 tvg-id="ext" group-title="Channels",EN | HBO Family East (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2338
+#EXTINF:0 tvg-id="ext" group-title="Channels",EN | Start TV
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2341
+#EXTINF:0 tvg-id="ext" group-title="Channels",Cine Dinamita (RD)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2342
+#EXTINF:0 tvg-id="CazayPesca.es" group-title="Channels",Caza y Pesca
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2343
+#EXTINF:0 tvg-id="ext" group-title="Channels",Directv Sports HD (PE)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2344
+#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL N  (PE)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2345
+#EXTINF:0 tvg-id="ext" group-title="Channels",Latina TV (PE) (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2346
+#EXTINF:0 tvg-id="PeruMagico.us" group-title="Channels",Peru Magico
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2347
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Peru (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2348
+#EXTINF:0 tvg-id="ext" group-title="Channels",FOX SPORTS 2 (CH)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2288
+#EXTINF:0 tvg-id="ext" group-title="Channels",FOX SPORTS 1 FHD (CH)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2289
+#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL 3 (GT)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2273
+#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL 11 (GT)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2275
+#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL 7 (GT) (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2274
+#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL 13 (GT)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2276
+#EXTINF:0 tvg-id="ext" group-title="Channels",TN 23 (GT) (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2277
+#EXTINF:0 tvg-id="ext" group-title="Channels",GUATEVISION (GT)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2278
+#EXTINF:0 tvg-id="ext" group-title="Channels",Gol TV HD (PE) (r)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2349
+#EXTINF:0 tvg-id="ext" group-title="Channels",U-NITV 44  Raleigh (Norte_Carolina)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2351
+#EXTINF:0 tvg-id="ext" group-title="Channels",Distrito Comedia HD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2352
+#EXTINF:0 tvg-id="ext" group-title="Channels",EN | Cinemax East
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2353
+#EXTINF:0 tvg-id="ext" group-title="Channels",MOVISTAR LIGA DE CAMPEONES HD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2355
+#EXTINF:0 tvg-id="CanalPlusEstrenos.sp" group-title="Channels",Movistar Estrenos
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2356
+#EXTINF:0 tvg-id="ext" group-title="Channels",TNT HD (ES)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2357
+#EXTINF:0 tvg-id="ext" group-title="Channels",FOX HD(ES)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2358
+#EXTINF:0 tvg-id="AMC.es" group-title="Channels",AMC (ES)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2359
+#EXTINF:0 tvg-id="DW.al" group-title="Channels",DW
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2361
+#EXTINF:0 tvg-id="ext" group-title="Channels",HISPANTV
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2362
+#EXTINF:0 tvg-id="ext" group-title="Channels",History HD (ES)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2363
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV GALICIA HD (ES)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2364
+#EXTINF:0 tvg-id="ext" group-title="Channels",U-NITV Tlenovela
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2365
+#EXTINF:0 tvg-id="ext" group-title="Channels",UNIMAS NY
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2366
+#EXTINF:0 tvg-id="ext" group-title="Channels",Unimas (WFPA-Philadelphia_PA) (L)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2369
+#EXTINF:0 tvg-id="ext" group-title="Channels",UniMas (WAMI-Miami-Ft._Lauderdale_FL)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2370
+#EXTINF:0 tvg-id="ext" group-title="Channels",HBO + HD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2371
+#EXTINF:0 tvg-id="HBOAdria.rs" group-title="Channels",HBO SD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2372
+#EXTINF:0 tvg-id="HBO2.cz" group-title="Channels",HBO 2 SD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2373
+#EXTINF:0 tvg-id="Maxprime.br" group-title="Channels",HBO Xtreme SD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2374
+#EXTINF:0 tvg-id="ext" group-title="Channels",HBO Family Latino SD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2375
+#EXTINF:0 tvg-id="ext" group-title="Channels",HBO Signature HD Latino (B)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2376
+#EXTINF:0 tvg-id="ext" group-title="Channels",HBO Pop HD Lat
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2377
+#EXTINF:0 tvg-id="ext" group-title="Channels",HBO Mundi Latino (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2378
+#EXTINF:0 tvg-id="ext" group-title="Channels",EN | MoreMax East FHD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2379
+#EXTINF:0 tvg-id="ext" group-title="Channels",EN | ActionMax East
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2380
+#EXTINF:0 tvg-id="Paramount.es" group-title="Channels",Paramount (ES)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2381
+#EXTINF:0 tvg-id="ext" group-title="Channels",TRECE FHD (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2382
+#EXTINF:0 tvg-id="ext" group-title="Channels",LA 2 HD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2383
+#EXTINF:0 tvg-id="star.gr" group-title="Channels",STAR SD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2384
+#EXTINF:0 tvg-id="ext" group-title="Channels",STAR Hits SD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2385
+#EXTINF:0 tvg-id="ext" group-title="Channels",STAR Comedy HD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2386
+#EXTINF:0 tvg-id="ext" group-title="Channels",STAR Series SD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2388
+#EXTINF:0 tvg-id="ext" group-title="Channels",STAR Action SD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2389
+#EXTINF:0 tvg-id="ext" group-title="Channels",Star Classics SD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2390
+#EXTINF:0 tvg-id="star-cinema" group-title="Channels",STAR Cinema HD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2391
+#EXTINF:0 tvg-id="ext" group-title="Channels",Telemicro HD (RD)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2392
+#EXTINF:0 tvg-id="ext" group-title="Channels",Teleamazonas HD (EC) (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2393
+#EXTINF:0 tvg-id="Paramount.uk" group-title="Channels",Paramount SD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2394
+#EXTINF:0 tvg-id="ext" group-title="Channels",EN | A&E East HD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2395
+#EXTINF:0 tvg-id="ext" group-title="Channels",EN | AMC Movie East HD (C)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2396
+#EXTINF:0 tvg-id="ext" group-title="Channels",EN | Animal Planet East (B)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2397
+#EXTINF:0 tvg-id="ext" group-title="Channels",EN | ACC Espn Network East (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2398
+#EXTINF:0 tvg-id="ext" group-title="Channels",EN | BET East (C)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2399
+#EXTINF:0 tvg-id="ext" group-title="Channels",EN | Bravo East HD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2400
+#EXTINF:0 tvg-id="ext" group-title="Channels",EN | beIN Sports Laliga HD US
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2401
+#EXTINF:0 tvg-id="ext" group-title="Channels",EN | Cinemax East HD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2402
+#EXTINF:0 tvg-id="ext" group-title="Channels",EN | CNN HD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2403
+#EXTINF:0 tvg-id="ext" group-title="Channels",EN | Cooking Channel HD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2404
+#EXTINF:0 tvg-id="ext" group-title="Channels",EN | CBS Sports Network
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2405
+#EXTINF:0 tvg-id="ext" group-title="Channels",EN | DIY East HD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2407
+#EXTINF:0 tvg-id="ext" group-title="Channels",EN | DIscovery ID East
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2408
+#EXTINF:0 tvg-id="ext" group-title="Channels",EN | Discovery Channel
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2409
+#EXTINF:0 tvg-id="ext" group-title="Channels",EN | Discovery Family East
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2410
+#EXTINF:0 tvg-id="ext" group-title="Channels",EN | Discovery en Espanol
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2411
+#EXTINF:0 tvg-id="ext" group-title="Channels",EN | Discovery Life East
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2412
+#EXTINF:0 tvg-id="ext" group-title="Channels",EN | Discovery Science US
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2413
+#EXTINF:0 tvg-id="ext" group-title="Channels",EN | Discovery World
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2414
+#EXTINF:0 tvg-id="ext" group-title="Channels",EN | E! East HD (L)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2415
+#EXTINF:0 tvg-id="ext" group-title="Channels",EN | IFC East HD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2417
+#EXTINF:0 tvg-id="ext" group-title="Channels",EN | ID (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2418
+#EXTINF:0 tvg-id="ext" group-title="Channels",EN | Food East HD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2419
+#EXTINF:0 tvg-id="ext" group-title="Channels",EN | Foro TV
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2420
+#EXTINF:0 tvg-id="ext" group-title="Channels",EN | FOX (Houston TX)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2421
+#EXTINF:0 tvg-id="ext" group-title="Channels",EN | FOX WUTV-Buffalo NY
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2422
+#EXTINF:0 tvg-id="ext" group-title="Channels",EN | FOX News
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2423
+#EXTINF:0 tvg-id="ext" group-title="Channels",Golden Premier HD (MX)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2424
+#EXTINF:0 tvg-id="ext" group-title="Channels",Golden Premier (CO) (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2425
+#EXTINF:0 tvg-id="Unicable.mx" group-title="Channels",Unicable HD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2426
+#EXTINF:0 tvg-id="ext" group-title="Channels",EN | FOX Boston
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2427
+#EXTINF:0 tvg-id="ext" group-title="Channels",Universal Kids
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2428
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Game Of Thrones
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2430
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Cantinflas
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2431
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Los Simpson
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2432
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 La Familia Peluche
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2433
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/8 El Chavo del 8
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2434
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Pokemon
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2435
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 The Walking Dead
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2436
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Dragon Ball Z
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2437
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 El Reto de los Super Amigos
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2438
+#EXTINF:0 tvg-id="ext" group-title="Channels",Histoire HD (FR)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2439
+#EXTINF:0 tvg-id="ext" group-title="Channels",Nat Geo Wild HD (FR)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2440
+#EXTINF:0 tvg-id="ext" group-title="Channels",Discovery Channel (FR)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2441
+#EXTINF:0 tvg-id="ext" group-title="Channels",Cine+ Club HD (FR)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2442
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canal+ Cinema FHD (FR)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2443
+#EXTINF:0 tvg-id="Arte.fr" group-title="Channels",Arte (FR)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2445
+#EXTINF:0 tvg-id="ext" group-title="Channels",Alpe d’Huez TV (FR)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2446
+#EXTINF:0 tvg-id="ext" group-title="Channels",Antenne Reunion (FR)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2447
+#EXTINF:0 tvg-id="BFMBusiness.fr" group-title="Channels",BFM Business (FR)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2448
+#EXTINF:0 tvg-id="ext" group-title="Channels",BFM Paris (FR)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2449
+#EXTINF:0 tvg-id="ext" group-title="Channels",BIP TV (FR)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2450
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV5 Style FHD (FR)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2454
+#EXTINF:0 tvg-id="ext" group-title="Channels",Telearagua (VE)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2458
+#EXTINF:0 tvg-id="ext" group-title="Channels",Vepaco TV (VE)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2460
+#EXTINF:0 tvg-id="ext" group-title="Channels",TVO (VE)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2461
+#EXTINF:0 tvg-id="ext" group-title="Channels",VENEVISION PLUS (VE)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2464
+#EXTINF:0 tvg-id="AZCorazon.cl" group-title="Channels",AZ Corazon
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2622
+#EXTINF:0 tvg-id="ext" group-title="Channels",AZ Mundo (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2623
+#EXTINF:0 tvg-id="HomeHealthHD.mx" group-title="Channels",DISCOVERY H&H SD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2624
+#EXTINF:0 tvg-id="DiscoveryKids.mx" group-title="Channels",Discovery Kids
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2625
+#EXTINF:0 tvg-id="DiscoveryTheatreHD.ar" group-title="Channels",Discovery Theater HD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2626
+#EXTINF:0 tvg-id="EuropaEuropa.ar" group-title="Channels",EUROPA EUROPA
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2627
+#EXTINF:0 tvg-id="ext" group-title="Channels",Teleceiba Canal 7 (HN)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2628
+#EXTINF:0 tvg-id="ext" group-title="Channels",TEN Canal 10 (HN)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2629
+#EXTINF:0 tvg-id="ext" group-title="Channels",Suyapa TV (HN)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2630
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sercano TV (HN)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2631
+#EXTINF:0 tvg-id="ext" group-title="Channels",HCH (HN)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2632
+#EXTINF:0 tvg-id="ext" group-title="Channels",Ebenezer TV (HN)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2633
+#EXTINF:0 tvg-id="ext" group-title="Channels",Campus TV (HN)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2634
+#EXTINF:0 tvg-id="ext" group-title="Channels",CCI Channel (HN)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2635
+#EXTINF:0 tvg-id="ext" group-title="Channels",MEGA FHD (CH)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2636
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canal 26 (CH)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2637
+#EXTINF:0 tvg-id="ext" group-title="Channels",Azteca Honduras
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2638
+#EXTINF:0 tvg-id="ext" group-title="Channels",MEGA TV (HN)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2639
+#EXTINF:0 tvg-id="ext" group-title="Channels",Telencentro HD (RD)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2640
+#EXTINF:0 tvg-id="ext" group-title="Channels",Onda TV (RD)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2641
+#EXTINF:0 tvg-id="ext" group-title="Channels",EN | FOX Sacramento CA (C)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2965
+#EXTINF:0 tvg-id="ext" group-title="Channels",EN | FOX 11 Los Angeles
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2966
+#EXTINF:0 tvg-id="ext" group-title="Channels",EN | FOX 13 Tampa
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2967
+#EXTINF:0 tvg-id="ext" group-title="Channels",24 Hrs
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2968
+#EXTINF:0 tvg-id="Antena3.es" group-title="Channels",Antena 3 FHD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2969
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bon Dia Catalan
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2970
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canal 4 HD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2971
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canal Sur Andalucia FHD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2972
+#EXTINF:0 tvg-id="ext" group-title="Channels",Euskal Telebista 1 Vasco FHD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2973
+#EXTINF:0 tvg-id="ext" group-title="Channels",EN | TBS East
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2974
+#EXTINF:0 tvg-id="ext" group-title="Channels",EN | TNT West HD (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2975
+#EXTINF:0 tvg-id="ext" group-title="Channels",EN | NAT Geo East
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2976
+#EXTINF:0 tvg-id="ext" group-title="Channels",EN | NAT Geo Wild East
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2977
+#EXTINF:0 tvg-id="ext" group-title="Channels",EN | Nat Geo Mundo
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2978
+#EXTINF:0 tvg-id="ext" group-title="Channels",EN | FX HD East
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2979
+#EXTINF:0 tvg-id="ext" group-title="Channels",EN | FXX East HD (C)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2980
+#EXTINF:0 tvg-id="ext" group-title="Channels",EN | FXM East (C)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2981
+#EXTINF:0 tvg-id="ext" group-title="Channels",EN | HGTV East
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2982
+#EXTINF:0 tvg-id="ext" group-title="Channels",EN | SyFy East HD (r)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2983
+#EXTINF:0 tvg-id="ext" group-title="Channels",EN | TLC East HD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2984
+#EXTINF:0 tvg-id="ext" group-title="Channels",EN | USA Net East HD (C)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2985
+#EXTINF:0 tvg-id="ext" group-title="Channels",Oxygen HD (N)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2986
+#EXTINF:0 tvg-id="ext" group-title="Channels",EN | TruTV East
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2987
+#EXTINF:0 tvg-id="ext" group-title="Channels",EN | EPIX EAST (E)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2992
+#EXTINF:0 tvg-id="ext" group-title="Channels",Galavison NY
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2993
+#EXTINF:0 tvg-id="ext" group-title="Channels",EN | History Channel
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2994
+#EXTINF:0 tvg-id="ext" group-title="Channels",EN | Comedy Central East (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2995
+#EXTINF:0 tvg-id="ComedyCentral.uk" group-title="Channels",Comedy Central HD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2996
+#EXTINF:0 tvg-id="ext" group-title="Channels",EN | EPIX 2 East (B)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2997
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canal 33 (SV) (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2998
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canal 21 (SV)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2999
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canal 12 (SV)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/3000
+#EXTINF:0 tvg-id="ext" group-title="Channels",TELE EL SALVADOR (SV)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/3001
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canal 6  (SV)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/3002
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canal 4 (SV) (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/3003
+#EXTINF:0 tvg-id="ext" group-title="Channels",shubhsandesh tv
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/3007
+#EXTINF:0 tvg-id="ext" group-title="Channels",Novo Tempo
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/3008
+#EXTINF:0 tvg-id="Kanal10.se" group-title="Channels",Kanal 10
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/3009
+#EXTINF:0 tvg-id="ext" group-title="Channels",Christian Youth Channel
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/3010
+#EXTINF:0 tvg-id="ext" group-title="Channels",Aliento Vision
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/3012
+#EXTINF:0 tvg-id="AlfaOmegaTV.ro" group-title="Channels",Alfa Omega TV
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/3013
+#EXTINF:0 tvg-id="ext" group-title="Channels",Ecuavisa Gquil FHD(EC) (N)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/3014
+#EXTINF:0 tvg-id="ext" group-title="Channels",RTS (EC)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/3015
+#EXTINF:0 tvg-id="ext" group-title="Channels",Gol TV HD (EC)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/3019
+#EXTINF:0 tvg-id="ext" group-title="Channels",Repretel 11 (CR)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/3020
+#EXTINF:0 tvg-id="ext" group-title="Channels",FUTV HD (CR)...
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/3021
+#EXTINF:0 tvg-id="ext" group-title="Channels",Tigo Sports (CR) (B)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/3023
+#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL 7 Teletica (CR) (r)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/3024
+#EXTINF:0 tvg-id="ext" group-title="Channels",Repretel 6 SD (CR)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/3022
+#EXTINF:0 tvg-id="ext" group-title="Channels",Tigo Sports  HD (HN)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/7621
+#EXTINF:0 tvg-id="ext" group-title="Channels",CDO (CH)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/7622
+#EXTINF:0 tvg-id="ext" group-title="Channels",Digital 15 (RD)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/7624
+#EXTINF:0 tvg-id="ext" group-title="Channels",Capital HD (CO)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/7628
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN SPORTS Canada
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/7770
+#EXTINF:0 tvg-id="MovistarFormula1.es" group-title="Channels",Movistar F1 FHD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/7772
+#EXTINF:0 tvg-id="TennisChannel.us" group-title="Channels",Tennis Channel
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/7866
+#EXTINF:0 tvg-id="ext" group-title="Channels",EN | ABC Sacramento (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/11707
+#EXTINF:0 tvg-id="ext" group-title="Channels",EN | ABC 7 New York (r)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/7463
+#EXTINF:0 tvg-id="ext" group-title="Channels",EN | ABC 7 Los Angeles
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/7462
+#EXTINF:0 tvg-id="ext" group-title="Channels",EN | ABC 2 Atlanta
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/7458
+#EXTINF:0 tvg-id="ESPNHD.us" group-title="Channels",ESPN 1 FHD (SUR)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/13792
+#EXTINF:0 tvg-id="FoxSports2HD.mx" group-title="Channels",FOX Sports 2 FHD (SUR)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/13797
+#EXTINF:0 tvg-id="FoxSports3HD.cl" group-title="Channels",FOX Sports 3 FHD (SUR)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/13798
+#EXTINF:0 tvg-id="ext" group-title="Channels",MLB Extra Innings 1 US
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/14451
+#EXTINF:0 tvg-id="ext" group-title="Channels",MLB Extra Innings 2 US
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/14469
+#EXTINF:0 tvg-id="ext" group-title="Channels",MLB Extra Innings 3 US
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/14470
+#EXTINF:0 tvg-id="ext" group-title="Channels",MLB Extra Innings 4 US
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/14471
+#EXTINF:0 tvg-id="ext" group-title="Channels",NBA League Pass 1 HD  US
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/14479
+#EXTINF:0 tvg-id="ext" group-title="Channels",NBA League Pass 2 HD  US
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/14480
+#EXTINF:0 tvg-id="ext" group-title="Channels",NBA League Pass 3 HD  US
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/14481
+#EXTINF:0 tvg-id="ext" group-title="Channels",NBA League Pass 4 HD US
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/14483
+#EXTINF:0 tvg-id="ext" group-title="Channels",17:00 ( NHL ) Rangers at Sabres
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/14484
+#EXTINF:0 tvg-id="ext" group-title="Channels",NBA League Pass 5 HD US
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/14485
+#EXTINF:0 tvg-id="ext" group-title="Channels",NBA League Pass 6 HD US
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/14486
+#EXTINF:0 tvg-id="ext" group-title="Channels",NFL TENNESSEE TITANS
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/14489
+#EXTINF:0 tvg-id="ext" group-title="Channels",NFL 06
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/14490
+#EXTINF:0 tvg-id="ext" group-title="Channels",NFL 49ERS
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/14491
+#EXTINF:0 tvg-id="ext" group-title="Channels",NFL SEAHAWKS
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/14492
+#EXTINF:0 tvg-id="ext" group-title="Channels",NFL CARDINALS
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/14493
+#EXTINF:0 tvg-id="ext" group-title="Channels",NFL OAKLAND RAIDERS
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/14494
+#EXTINF:0 tvg-id="ext" group-title="Channels",NFL 05
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/14495
+#EXTINF:0 tvg-id="ext" group-title="Channels",NFL NEW YORK GIANTS
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/14496
+#EXTINF:0 tvg-id="ext" group-title="Channels",NFL 04
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/14497
+#EXTINF:0 tvg-id="ext" group-title="Channels",NFL NEW ENGLAND PATRIOTS
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/14498
+#EXTINF:0 tvg-id="ext" group-title="Channels",NFL BUCCANEERS
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/14499
+#EXTINF:0 tvg-id="ext" group-title="Channels",NFL 19
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/14501
+#EXTINF:0 tvg-id="ext" group-title="Channels",NFL CHARGERS
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/14503
+#EXTINF:0 tvg-id="ext" group-title="Channels",NFL KANSAS CITY CHIEFS
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/14504
+#EXTINF:0 tvg-id="ext" group-title="Channels",NFL JAGUARS
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/14505
+#EXTINF:0 tvg-id="ext" group-title="Channels",NFL INDIANAPOLIS COLTS
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/14506
+#EXTINF:0 tvg-id="ext" group-title="Channels",NFL CARDINALS
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/14507
+#EXTINF:0 tvg-id="ext" group-title="Channels",NFL  DETROIT  LIONS
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/14509
+#EXTINF:0 tvg-id="ext" group-title="Channels",NFL DALLAS COWBOYS
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/14511
+#EXTINF:0 tvg-id="ext" group-title="Channels",NFL CLEVELAND BROWNS
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/14512
+#EXTINF:0 tvg-id="ext" group-title="Channels",NFL STEELERS
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/14513
+#EXTINF:0 tvg-id="ext" group-title="Channels",NFL BILLS
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/14516
+#EXTINF:0 tvg-id="ext" group-title="Channels",NFL PATRIOTS
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/14517
+#EXTINF:0 tvg-id="ext" group-title="Channels",NFL ATLANTA FALCONS
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/14518
+#EXTINF:0 tvg-id="ext" group-title="Channels",TVG Network East HD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/14179
+#EXTINF:0 tvg-id="ext" group-title="Channels",TVG 2 Network East FHD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/13943
+#EXTINF:0 tvg-id="ext" group-title="Channels",STAR Action FHD (EN)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/13763
+#EXTINF:0 tvg-id="ext" group-title="Channels",STARZ IN BLACK (LAT)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/11587
+#EXTINF:0 tvg-id="ext" group-title="Channels",STARZ ACTION (SD)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/11586
+#EXTINF:0 tvg-id="ext" group-title="Channels",MoviePlex FHD (LAT)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/11585
+#EXTINF:0 tvg-id="ext" group-title="Channels",MoreMax FHD (LAT)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/11584
+#EXTINF:0 tvg-id="ext" group-title="Channels",TLC HD (MX) (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/3533
+#EXTINF:0 tvg-id="ext" group-title="Channels",4K | WarnerFHD (1920P / 29 FPS) (B)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/13805
+#EXTINF:0 tvg-id="ext" group-title="Channels",4K | SONY (1920P / 29 FPS) (B)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/13806
+#EXTINF:0 tvg-id="ext" group-title="Channels",4K | Universal Channel (1920P / 29 FPS) (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/13807
+#EXTINF:0 tvg-id="ext" group-title="Channels",4K | Cinemax (1920P / 29 FPS) (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/13808
+#EXTINF:0 tvg-id="ext" group-title="Channels",4K | A&E (1920P / 29 FPS) (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/13809
+#EXTINF:0 tvg-id="ext" group-title="Channels",4K | AXN (1920P / 29 FPS)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/13810
+#EXTINF:0 tvg-id="ext" group-title="Channels",4K | AMC (1920P / 29 FPS) (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/13813
+#EXTINF:0 tvg-id="ext" group-title="Channels",4K | HBO Family (1920P / 29 FPS) (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/13814
+#EXTINF:0 tvg-id="ext" group-title="Channels",4K | History 2 (1920P / 29 FPS) (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/13816
+#EXTINF:0 tvg-id="ext" group-title="Channels",4K | Canal 5 (1920P / 29 FPS)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/13819
+#EXTINF:0 tvg-id="ext" group-title="Channels",4K | Canal De Las Estrellas (1920P / 29 FPS) (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/13821
+#EXTINF:0 tvg-id="ext" group-title="Channels",4K | STAR (1920P / 29 FPS) (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/13822
+#EXTINF:0 tvg-id="ext" group-title="Channels",4K | History (CO)(1920P / 29 FPS) (B)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/13934
+#EXTINF:0 tvg-id="ext" group-title="Channels",4K | Starz Black Full HD (1920P / 29 FPS) (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/13937
+#EXTINF:0 tvg-id="ext" group-title="Channels",4K | Showtime Latino (1920P / 29 FPS) (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/13938
+#EXTINF:0 tvg-id="ext" group-title="Channels",4K | Showtime 2 (1920P / 29 FPS) (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/13939
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeIN Sports N  4K (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/13949
+#EXTINF:0 tvg-id="ext" group-title="Channels",4K | HBO Plus (AR) (1920P / 29 FPS) (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/14097
+#EXTINF:0 tvg-id="ext" group-title="Channels",4K | HBO 2  (1920P / 29 FPS) (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/14098
+#EXTINF:0 tvg-id="ext" group-title="Channels",4K | HBO Signature  (1920P / 29 FPS)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/14099
+#EXTINF:0 tvg-id="ext" group-title="Channels",4K | HBO Family (CO)  (1920P / 29 FPS)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/14100
+#EXTINF:0 tvg-id="ext" group-title="Channels",4K | History FHD  COL (1920P / 32 FPS) (C)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/14101
+#EXTINF:0 tvg-id="ext" group-title="Channels",4K | FX HD (1920P / 29 FPS)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/14103
+#EXTINF:0 tvg-id="ext" group-title="Channels",4K | STAR Action FHD (1920P / 29 FPS)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/14104
+#EXTINF:0 tvg-id="ext" group-title="Channels",4K | HBO FHD (AR) (1920P / 29 FPS)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/14105
+#EXTINF:0 tvg-id="ext" group-title="Channels",4K | Paramount FHD  (1920P / 29 FPS)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/14106
+#EXTINF:0 tvg-id="ext" group-title="Channels",4K | STAR Hits FHD (ENCODER ) (1920P / 29 FPS)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/14208
+#EXTINF:0 tvg-id="ext" group-title="Channels",4K | Warner HD (AR) (1920P / 29 FPS) (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/14213
+#EXTINF:0 tvg-id="MTV.uk" group-title="Channels",MTV 2
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/14522
+#EXTINF:0 tvg-id="ext" group-title="Channels",MTV U (USA)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/14521
+#EXTINF:0 tvg-id="ext" group-title="Channels",MTV LIVE (USA)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/14520
+#EXTINF:0 tvg-id="ext" group-title="Channels",MTV Classic US
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/14519
+#EXTINF:0 tvg-id="ext" group-title="Channels",EN | CNBC
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/14176
+#EXTINF:0 tvg-id="ext" group-title="Channels",EN | CNN East
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/14167
+#EXTINF:0 tvg-id="ext" group-title="Channels",EN | MSNBC
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/14166
+#EXTINF:0 tvg-id="ext" group-title="Channels",EN | Paramount Network (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/14111
+#EXTINF:0 tvg-id="ext" group-title="Channels",EN | MotorTrend
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/14110
+#EXTINF:0 tvg-id="ext" group-title="Channels",EN | TVLand
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/14108
+#EXTINF:0 tvg-id="ext" group-title="Channels",EN | Lifetime East HD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/13823
+#EXTINF:0 tvg-id="ext" group-title="Channels",EN | Outdoor Channel East
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/12596
+#EXTINF:0 tvg-id="ext" group-title="Channels",EN | NBC Seattle
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/11741
+#EXTINF:0 tvg-id="ext" group-title="Channels",EN | NBC San Francisco
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/11740
+#EXTINF:0 tvg-id="ext" group-title="Channels",EN | NBC 4 Los Angeles
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/11738
+#EXTINF:0 tvg-id="ext" group-title="Channels",EN | NBC Denver
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/11737
+#EXTINF:0 tvg-id="ext" group-title="Channels",EN | CBS Boston (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/11734
+#EXTINF:0 tvg-id="ext" group-title="Channels",EN | CBS 13 Sacramento
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/11732
+#EXTINF:0 tvg-id="ext" group-title="Channels",EN | ABC 9 Orlando
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/11726
+#EXTINF:0 tvg-id="ext" group-title="Channels",EN | CBS  New York
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/11727
+#EXTINF:0 tvg-id="ext" group-title="Channels",EN | Cine Sony (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/7774
+#EXTINF:0 tvg-id="ext" group-title="Channels",EN | Hallmark Movies & Mysteries
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/7773
+#EXTINF:0 tvg-id="ext" group-title="Channels",EN | Fuse East
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/7619
+#EXTINF:0 tvg-id="ext" group-title="Channels",EN | TVG Network (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/7525
+#EXTINF:0 tvg-id="ext" group-title="Channels",EN | NBC Universo FHD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/7492
+#EXTINF:0 tvg-id="ext" group-title="Channels",EN | NBC Giorgia
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/7491
+#EXTINF:0 tvg-id="ext" group-title="Channels",EN | NBC 6 Miami Local (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/7490
+#EXTINF:0 tvg-id="ext" group-title="Channels",EN | NBC 5 Chicago (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/7488
+#EXTINF:0 tvg-id="ext" group-title="Channels",EN | NBC 4 New York (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/7487
+#EXTINF:0 tvg-id="ext" group-title="Channels",EN | FOX Deportes Espamol FHD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/7482
+#EXTINF:0 tvg-id="ext" group-title="Channels",EN | FOX 26 Houston
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/7478
+#EXTINF:0 tvg-id="ext" group-title="Channels",EN | FOX Us
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/7477
+#EXTINF:0 tvg-id="ext" group-title="Channels",EN | CBS 4 Miami (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/7474
+#EXTINF:0 tvg-id="ext" group-title="Channels",EN | CBS 4 Denver (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/7473
+#EXTINF:0 tvg-id="ext" group-title="Channels",EN | ABC 10 Miami (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/7456
+#EXTINF:0 tvg-id="Discovery.uk" group-title="Channels",DISCOVERY CHANNEL
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/14533
+#EXTINF:0 tvg-id="Investigation.uk" group-title="Channels",DISCOVERY ID
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/14532
+#EXTINF:0 tvg-id="DePelicula.mx" group-title="Channels",DE PELICULA
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/14529
+#EXTINF:0 tvg-id="DePeliculaClasico.us" group-title="Channels",De Pelicula Clasico
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/14530
+#EXTINF:0 tvg-id="CineLatino.mx" group-title="Channels",CINE LATINO
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/14528
+#EXTINF:0 tvg-id="RussiaToday.uk" group-title="Channels",RT
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/14422
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV GUANAJUATO
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/14418
+#EXTINF:0 tvg-id="ext" group-title="Channels",AzCinema HD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/14210
+#EXTINF:0 tvg-id="ElGourmet.mx" group-title="Channels",Gourmet
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/14175
+#EXTINF:0 tvg-id="ext" group-title="Channels",Europa International
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/14173
+#EXTINF:0 tvg-id="Proyecto40.mx" group-title="Channels",PROYECTO 40
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/14134
+#EXTINF:0 tvg-id="AyMSports.mx" group-title="Channels",AYM SPORTS
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/14132
+#EXTINF:0 tvg-id="ext" group-title="Channels",A3S SERIES
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/14131
+#EXTINF:0 tvg-id="Bandamax.mx" group-title="Channels",BANDAMAX
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/14130
+#EXTINF:0 tvg-id="TCM.uk" group-title="Channels",TCM
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/14116
+#EXTINF:0 tvg-id="MTVEsp.es" group-title="Channels",MTV Latino
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/14107
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canal 4 HD Guadalajara
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/13933
+#EXTINF:0 tvg-id="Lifetime.uk" group-title="Channels",Lifetime HD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/13825
+#EXTINF:0 tvg-id="ext" group-title="Channels",TLNOVELAS Mexcio
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/12985
+#EXTINF:0 tvg-id="ext" group-title="Channels",DISCOVERY HOME LATINO
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/14534
+#EXTINF:0 tvg-id="DiscoveryScience.uk" group-title="Channels",DISCOVERY SCIENCE
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/14535
+#EXTINF:0 tvg-id="Warnerchannel.br" group-title="Channels",Warner SD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/14549
+#EXTINF:0 tvg-id="Hboplus.br" group-title="Channels",HBO Plus SD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/14551
+#EXTINF:0 tvg-id="ext" group-title="Channels",STAR FUN
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/14552
+#EXTINF:0 tvg-id="FoodNetwork.uk" group-title="Channels",Food Network HD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/14598
+#EXTINF:0 tvg-id="ext" group-title="Channels",U-NITV (WXTV-New_York_NY) (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/14597
+#EXTINF:0 tvg-id="ext" group-title="Channels",De Pelicula Plus (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/14531
+#EXTINF:0 tvg-id="ext" group-title="Channels",U-NITV 23 Dallas
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/13800
+#EXTINF:0 tvg-id="ext" group-title="Channels",UNIMAS DALLAS TX
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/13799
+#EXTINF:0 tvg-id="ext" group-title="Channels",UniMas (KTFO-Austin TX)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/13791
+#EXTINF:0 tvg-id="UniversoHD.us" group-title="Channels",Universo HD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/11791
+#EXTINF:0 tvg-id="ext" group-title="Channels",Estrella TV (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/7512
+#EXTINF:0 tvg-id="ext" group-title="Channels",NBC Universo HD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/6224
+#EXTINF:0 tvg-id="ext" group-title="Channels",Nick Junior East FHD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/11782
+#EXTINF:0 tvg-id="NickelodeonEastHD.us" group-title="Channels",Nickelodeon East FHD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/11783
+#EXTINF:0 tvg-id="ext" group-title="Channels",Boomerang East
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/11785
+#EXTINF:0 tvg-id="ext" group-title="Channels",Cartoon Network East HD (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/11786
+#EXTINF:0 tvg-id="ext" group-title="Channels",Universal Kids HD (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/11788
+#EXTINF:0 tvg-id="ext" group-title="Channels",Disney XD East
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/11789
+#EXTINF:0 tvg-id="ext" group-title="Channels",Disney Channel East (L)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/11790
+#EXTINF:0 tvg-id="ext" group-title="Channels",Disney Junior East
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/12051
+#EXTINF:0 tvg-id="Nicktoons.uk" group-title="Channels",NICKTOONS
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/14536
+#EXTINF:0 tvg-id="TeenNick.us" group-title="Channels",TEEN NICK
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/14537
+#EXTINF:0 tvg-id="Nickelodeon.uk" group-title="Channels",NICK FHD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/14538
+#EXTINF:0 tvg-id="ext" group-title="Channels",ONCE NInO
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/14550
+#EXTINF:0 tvg-id="ESPN.nl" group-title="Channels",FOX Sports 1 HD (SUR)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/13796
+#EXTINF:0 tvg-id="ext" group-title="Channels",Spectrum Sportsnet LA
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/14185
+#EXTINF:0 tvg-id="Eurosport2.uk" group-title="Channels",EUROSPORT 2 HD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/14178
+#EXTINF:0 tvg-id="ext" group-title="Channels",Euro Sports 1 FHD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/14177
+#EXTINF:0 tvg-id="ext" group-title="Channels",World Fishing Network (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/12597
+#EXTINF:0 tvg-id="ext" group-title="Channels",arenasport1 (Stadium)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/7508
+#EXTINF:0 tvg-id="ext" group-title="Channels",Retro TV (GT)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/7532
+#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL 6 (HN)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/10166
+#EXTINF:0 tvg-id="ext" group-title="Channels",UNE TV (HN)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/10165
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canal 5 FHD (HN)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/7534
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canal 7 (HN)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/3145
+#EXTINF:0 tvg-id="ext" group-title="Channels",HCH Op2 (HN)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/3143
+#EXTINF:0 tvg-id="ext" group-title="Channels",VTV HD (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/14153
+#EXTINF:0 tvg-id="ext" group-title="Channels",VTV + (UY) (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/3028
+#EXTINF:0 tvg-id="ext" group-title="Channels",VTV HD (UY)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/7513
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canal 10 (UY)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/7514
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canal U (UY)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/11767
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canal 4 Monte Carlos (UY)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/11768
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Ciudad (UY)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/11770
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canal 4 (UY)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/14141
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canal 12 (UY)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/14142
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canal 4 FHD (UY)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/14156
+#EXTINF:0 tvg-id="ext" group-title="Channels",Win Sports (CO) (C)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/7510
+#EXTINF:0 tvg-id="ext" group-title="Channels",Win Sports + SD (CO) (B)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/7509
+#EXTINF:0 tvg-id="ext" group-title="Channels",Caracol HD (CO)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/7511
+#EXTINF:0 tvg-id="ext" group-title="Channels",Venevision Plus (VE)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/14600
+#EXTINF:0 tvg-id="ext" group-title="Channels",Gamavision HD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/3018
+#EXTINF:0 tvg-id="ext" group-title="Channels",TC Television HD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/3017
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canal 1 HD (EC)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/3016
+#EXTINF:0 tvg-id="ext" group-title="Channels",VTV Vina del Mar (CH)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/7769
+#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL 13 FHD (CH)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/14539
+#EXTINF:0 tvg-id="CNNChile.cl" group-title="Channels",CNN Chile
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/14541
+#EXTINF:0 tvg-id="ext" group-title="Channels",Rec TV (CH)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/14542
+#EXTINF:0 tvg-id="24HorasHD.cl" group-title="Channels",24 Horas HD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/14543
+#EXTINF:0 tvg-id="ext" group-title="Channels",Teletrak HD (CH)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/14544
+#EXTINF:0 tvg-id="ext" group-title="Channels",Telesistema (RD)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/7529
+#EXTINF:0 tvg-id="ext" group-title="Channels",RPC C4
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/14150
+#EXTINF:0 tvg-id="ext" group-title="Channels",Microvision Canal 10
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/7623
+#EXTINF:0 tvg-id="ext" group-title="Channels",Cine Extrema TV (RD)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/7531
+#EXTINF:0 tvg-id="ext" group-title="Channels",Teleuniverso (RD)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/7530
+#EXTINF:0 tvg-id="ext" group-title="Channels",Gol Peru
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/10137
+#EXTINF:0 tvg-id="ext" group-title="Channels",America TV (PE)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/10168
+#EXTINF:0 tvg-id="ext" group-title="Channels",Onda Canal (CR)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/7535
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canal 2 (SV) (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/3144
+#EXTINF:0 tvg-id="ext" group-title="Channels",Wow TV HD (SV)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/7589
+#EXTINF:0 tvg-id="ext" group-title="Channels",TCS Plus (SV)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/11769
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canal 26 - 1
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/3036
+#EXTINF:0 tvg-id="Telemax.ar" group-title="Channels",TELEMAX
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/3037
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canal Provincial
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/3039
+#EXTINF:0 tvg-id="ext" group-title="Channels",FOX SPORTS 2 Mex (ENCODER ) (HEVC H.265 / 50 FPS).
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/3041
+#EXTINF:0 tvg-id="ext" group-title="Channels",Argentinisima (ARG)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/14589
+#EXTINF:0 tvg-id="ext" group-title="Channels",Kuriakos Cine (PT)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/6225
+#EXTINF:0 tvg-id="ext" group-title="Channels",Kuriakos Kids (PT)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/6226
+#EXTINF:0 tvg-id="ext" group-title="Channels",Kuriakos TV (PT)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/6227
+#EXTINF:0 tvg-id="ext" group-title="Channels",Kuriakos Music (PT)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/6228
+#EXTINF:0 tvg-id="PortoCanal.pt" group-title="Channels",Porto Canal (PT)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/6229
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sobrenatural TV
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/6230
+#EXTINF:0 tvg-id="TVFatima.pt" group-title="Channels",TV Fatima
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/6231
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK | SKY Cinema Thriller HD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/11774
+#EXTINF:0 tvg-id="SkyMoviesActionThriller.uk" group-title="Channels",UK | SKY CINEMA ACTION & ADVENTURE HD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/11775
+#EXTINF:0 tvg-id="SkyMoviesComedy.uk" group-title="Channels",UK | SKY Cinema Comedy HD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/11776
+#EXTINF:0 tvg-id="SkyMoviesPremiere.uk" group-title="Channels",UK | SKY CINEMA PREMIERE HD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/11777
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK | SKY CINEMA Crime FHD (r)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/11778
+#EXTINF:0 tvg-id="SkyMoviesFamily.uk" group-title="Channels",UK | SKY Cinema Family HD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/11779
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Pedro Infante
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/14187
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7  Paw Patroll
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/14164
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Peppa Pig
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/7493
+#EXTINF:0 tvg-id="MTVHits.eu" group-title="Channels",MTV Hits
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/14170
+#EXTINF:0 tvg-id="ext" group-title="Channels",VH1  HD Us
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/13947
+#EXTINF:0 tvg-id="ext" group-title="Channels",TELEHIT (ENCODER ) (HEVC H.265 / 50 FPS)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/13946
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bandamax Us (ENCODER ) (HEVC H.265 / 50 FPS)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/7528
+#EXTINF:0 tvg-id="ext" group-title="Channels",Ritmoson (ENCODER ) (HEVC H.265 / 50 FPS)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/7526
+#EXTINF:0 tvg-id="ext" group-title="Channels",Penthouse  Gold 4K
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/10054
+#EXTINF:0 tvg-id="ext" group-title="Channels",XY Max hd
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/10056
+#EXTINF:0 tvg-id="ext" group-title="Channels",Stars xxx HD ---
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/10060
+#EXTINF:0 tvg-id="ext" group-title="Channels",Brazzers TV Europe HD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/10062
+#EXTINF:0 tvg-id="ext" group-title="Channels",Super ONE UHD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/10064
+#EXTINF:0 tvg-id="DuskTV.ero" group-title="Channels",Dusk
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/10065
+#EXTINF:0 tvg-id="ext" group-title="Channels",Kinoxxx HD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/10069
+#EXTINF:0 tvg-id="ext" group-title="Channels",O-la-la -
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/10071
+#EXTINF:0 tvg-id="ext" group-title="Channels",RED Light UHD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/10073
+#EXTINF:0 tvg-id="ext" group-title="Channels",Cento X Cento TV HD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/10074
+#EXTINF:0 tvg-id="ext" group-title="Channels",Hustler UHD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/10077
+#EXTINF:0 tvg-id="PlayboyTV.uk" group-title="Channels",PlayBoy TV
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/10080
+#EXTINF:0 tvg-id="Dorcel.ero" group-title="Channels",Dorcel TV FHD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/10081
+#EXTINF:0 tvg-id="ext" group-title="Channels",Oh-Ah-UHD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/10082
+#EXTINF:0 tvg-id="ext" group-title="Channels",Shalun TV UHD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/10085
+#EXTINF:0 tvg-id="ext" group-title="Channels",Private TV UHD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/10088
+#EXTINF:0 tvg-id="ext" group-title="Channels",Barely Legal tv HD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/10090
+#EXTINF:0 tvg-id="PenthouseQuickies.ero" group-title="Channels",Penthouse 2 HD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/10092
+#EXTINF:0 tvg-id="ext" group-title="Channels",Vivid red HD -
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/10101
+#EXTINF:0 tvg-id="Eroxxx.ero" group-title="Channels",EROxxx HD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/10105
+#EXTINF:0 tvg-id="ext" group-title="Channels",Babes TV 4K
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/10110
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bluehustler HD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/10114
+#EXTINF:0 tvg-id="ext" group-title="Channels",Extasy HD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/10115
+#EXTINF:0 tvg-id="ext" group-title="Channels",Jasmin tv HD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/10119
+#EXTINF:0 tvg-id="ext" group-title="Channels",Candy TV HD--
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/10120
+#EXTINF:0 tvg-id="Eroxxx.ero" group-title="Channels",Erox HD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/10121
+#EXTINF:0 tvg-id="ext" group-title="Channels",Visit x HD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/10122
+#EXTINF:0 tvg-id="ext" group-title="Channels",Egoist-tv
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/10123
+#EXTINF:0 tvg-id="ext" group-title="Channels",iskushenie
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/10125
+#EXTINF:0 tvg-id="ext" group-title="Channels",Egoist-tv HD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/10126
+#EXTINF:0 tvg-id="ext" group-title="Channels",Evil-Angel
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/10127
+#EXTINF:0 tvg-id="ext" group-title="Channels",Nochnoj-klub
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/10128
+#EXTINF:0 tvg-id="ext" group-title="Channels",fap-tv-teens
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/10129
+#EXTINF:0 tvg-id="ext" group-title="Channels",fap-tv-bbw
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/10130
+#EXTINF:0 tvg-id="ext" group-title="Channels",fap-tv-parody
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/10131
+#EXTINF:0 tvg-id="ext" group-title="Channels",fap-tv-anal
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/10132
+#EXTINF:0 tvg-id="ext" group-title="Channels",fap-tv-compilation
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/10133
+#EXTINF:0 tvg-id="ext" group-title="Channels",fap-tv-2
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/10134
+#EXTINF:0 tvg-id="ext" group-title="Channels",fap-tv-3
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/10135
+#EXTINF:0 tvg-id="ext" group-title="Channels",fap-tv-4
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/10136
+#EXTINF:0 tvg-id="ext" group-title="Channels",T-MUNDO Chicago
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/14601
+#EXTINF:0 tvg-id="ext" group-title="Channels",Multimedio (APRENDE#EN#CASA)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/14760
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Azteca (APRENDE#EN#CASA)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/14761
+#EXTINF:0 tvg-id="ext" group-title="Channels",Televisa Guadalajara (APRENDE#EN#CASA) (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/14763
+#EXTINF:0 tvg-id="ext" group-title="Channels",INGENIO TV (APRENDE#EN#CASA)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/14764
+#EXTINF:0 tvg-id="ext" group-title="Channels",Imagen (APRENDE#EN#CASA)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/14765
+#EXTINF:0 tvg-id="ext" group-title="Channels",ONCE NinO (APRENDE#EN#CASA)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/14766
+#EXTINF:0 tvg-id="ext" group-title="Channels",306 DISH INGENIO TV #OP2 (APRENDE#EN#CASA)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/14767
+#EXTINF:0 tvg-id="ext" group-title="Channels",Imagen #OP2 (APRENDE#EN#CASA)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/14768
+#EXTINF:0 tvg-id="ext" group-title="Channels",Peque tv
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/14769
+#EXTINF:0 tvg-id="ext" group-title="Channels",INGENIO TV op2
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/14782
+#EXTINF:0 tvg-id="ext" group-title="Channels",EN | FOX 11 LA
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/16988
+#EXTINF:0 tvg-id="ext" group-title="Channels",EN | FOX Los Angeles
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/16990
+#EXTINF:0 tvg-id="ext" group-title="Channels",EN | FOX 5 NEW YORK
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/16991
+#EXTINF:0 tvg-id="ext" group-title="Channels",EN | FOX 59 INDIANAPOLIS
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/16992
+#EXTINF:0 tvg-id="ext" group-title="Channels",EN | FOX 8 NEW ORLEANS
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/16993
+#EXTINF:0 tvg-id="ext" group-title="Channels",EN | CBS CHICAGO
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/16996
+#EXTINF:0 tvg-id="ext" group-title="Channels",EN | CBS MIAMI
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/16997
+#EXTINF:0 tvg-id="ext" group-title="Channels",EN | CBS NEW ORLEANS
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/16998
+#EXTINF:0 tvg-id="ext" group-title="Channels",EN | CBS NEW YORK
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/16999
+#EXTINF:0 tvg-id="ext" group-title="Channels",EN |  CBS 2 LOS ANGELES
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/17000
+#EXTINF:0 tvg-id="ext" group-title="Channels",EN | CBS 9 LOS ANGELES
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/17001
+#EXTINF:0 tvg-id="ext" group-title="Channels",EN | NBC4 NEW YORK
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/17003
+#EXTINF:0 tvg-id="ext" group-title="Channels",EN | NBC 5 Chicago
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/17004
+#EXTINF:0 tvg-id="ext" group-title="Channels",EN | NBC 6 MIAMI (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/17008
+#EXTINF:0 tvg-id="ext" group-title="Channels",EN | NBC 6 SOUTH FLORIDA
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/17009
+#EXTINF:0 tvg-id="ext" group-title="Channels",EN | NBC WASHINGTON
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/17012
+#EXTINF:0 tvg-id="ext" group-title="Channels",EN  | MSNBC
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/17015
+#EXTINF:0 tvg-id="Barca.pt" group-title="Channels",Barca TV
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/17019
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canal Uno FHD (EC)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/17020
+#EXTINF:0 tvg-id="ext" group-title="Channels",Panamericana (PE) (r)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/17021
+#EXTINF:0 tvg-id="ext" group-title="Channels",Movistar Deportes (PE)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/17022
+#EXTINF:0 tvg-id="ext" group-title="Channels",Willax HD (PE) (N)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/17023
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV PERU NOTICIA (PE)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/17024
+#EXTINF:0 tvg-id="ext" group-title="Channels",ACC Network (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/17025
+#EXTINF:0 tvg-id="NickelodeonHD.pl" group-title="Channels",Nicktoons HD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/17026
+#EXTINF:0 tvg-id="ext" group-title="Channels",4K | UNIVISION Satlake (1920P / 29 FPS)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/17030
+#EXTINF:0 tvg-id="ext" group-title="Channels",4K | U-NITV 21 (1920P / 29 FPS)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/17031
+#EXTINF:0 tvg-id="ext" group-title="Channels",4K | UNIVISION 14 New Mexico (1920P / 29 FPS)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/17032
+#EXTINF:0 tvg-id="ext" group-title="Channels",4K | U-NITV KMEX-DT LA (1920P / 29 FPS)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/17033
+#EXTINF:0 tvg-id="ext" group-title="Channels",4K | TNT Latino America (1920P / 29 FPS) (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/17034
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Prison Break
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/17037
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Hannah Montana TEMP 1
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/17038
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Breaking Bad
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/17039
+#EXTINF:0 tvg-id="ext" group-title="Channels",EN | Food Network East FHD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/18132
+#EXTINF:0 tvg-id="ext" group-title="Channels",GALAVISION PHILADELPHIA (r)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/18143
+#EXTINF:0 tvg-id="ext" group-title="Channels",CDO BASICO (CH)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/16974
+#EXTINF:0 tvg-id="ext" group-title="Channels",CDO Premium (CH)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/16973
+#EXTINF:0 tvg-id="ext" group-title="Channels",CDF DEPORTES EN VIVO
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/16797
+#EXTINF:0 tvg-id="CDFBasico.cl" group-title="Channels",CDF Basico
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/16796
+#EXTINF:0 tvg-id="ext" group-title="Channels",CDF HD (CL)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/16794
+#EXTINF:0 tvg-id="CDFPremium.cl" group-title="Channels",CDF Premium
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/16795
+#EXTINF:0 tvg-id="ext" group-title="Channels",Tigo Sports 1 (SV)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/14770
+#EXTINF:0 tvg-id="ext" group-title="Channels",ECUAVISA INTERNACIONAL FHD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/19701
+#EXTINF:0 tvg-id="ext" group-title="Channels",Venados de Mazatlan
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/19369
+#EXTINF:0 tvg-id="ext" group-title="Channels",Cañeros de Los Mochis
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/19368
+#EXTINF:0 tvg-id="ext" group-title="Channels",Algodoneros de Guasave
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/19367
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sultanes de Monterrey
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/19366
+#EXTINF:0 tvg-id="ext" group-title="Channels",aranjeros de Hermosillo
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/19365
+#EXTINF:0 tvg-id="ext" group-title="Channels",Mayos de Navojoa
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/19364
+#EXTINF:0 tvg-id="ext" group-title="Channels",Yaquis de Obregon
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/19363
+#EXTINF:0 tvg-id="ext" group-title="Channels",Charros de Jalisco
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/19362
+#EXTINF:0 tvg-id="ext" group-title="Channels",4K | AZTECA 1 UHD (1920P / 29 FPS)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/18837
+#EXTINF:0 tvg-id="ext" group-title="Channels",AZTECA CINEMA (ESP)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/22233
+#EXTINF:0 tvg-id="ext" group-title="Channels",4K | T-MUNDO 62 (Philadelphia_WWSI) (1920P / 29 FPS)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/18836
+#EXTINF:0 tvg-id="ext" group-title="Channels",EN | T-MUNDO San francisco
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/21912
+#EXTINF:0 tvg-id="ext" group-title="Channels",T-MUNDO 15 KVDA (Palm Springs)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/21937
+#EXTINF:0 tvg-id="ext" group-title="Channels",T-Mundo 3 (KCSO Sacramento)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/21947
+#EXTINF:0 tvg-id="ext" group-title="Channels",T-Mundo SALT LAKE CITY (ESP)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/22125
+#EXTINF:0 tvg-id="ext" group-title="Channels",T-Mundo SACRAMENTO (ESP)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/22126
+#EXTINF:0 tvg-id="ext" group-title="Channels",T-Mundo PHOENIX  (ESP)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/22128
+#EXTINF:0 tvg-id="ext" group-title="Channels",T-Mundo CONNECTICUT (ESP)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/22134
+#EXTINF:0 tvg-id="ext" group-title="Channels",T-Mundo 60 SAN ANTONIO (ESP)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/22137
+#EXTINF:0 tvg-id="ext" group-title="Channels",T-Mundo 52 LOS ANGELES (ESP)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/22138
+#EXTINF:0 tvg-id="ext" group-title="Channels",T-Mundo 51 MIAMI (ESP)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/22139
+#EXTINF:0 tvg-id="ext" group-title="Channels",T-Mundo 47 NEWYORK (ESP)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/22142
+#EXTINF:0 tvg-id="ext" group-title="Channels",T-Mundo 44 CHICAGO (ESP)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/22143
+#EXTINF:0 tvg-id="ext" group-title="Channels",T-Mundo 44 (ESP)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/22144
+#EXTINF:0 tvg-id="ext" group-title="Channels",T-Mundo 39 DALLAS (ESP) (r)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/22145
+#EXTINF:0 tvg-id="ext" group-title="Channels",U-NITV (KTVW Phoenix Prescott) (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/90
+#EXTINF:0 tvg-id="ext" group-title="Channels",U-NITV SAN FRANCISCO OAK SAN JOSE KDTV
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/21348
+#EXTINF:0 tvg-id="ext" group-title="Channels",EN | U-NITV San Francisco FHD (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/21452
+#EXTINF:0 tvg-id="ext" group-title="Channels",U-NITV (ESP) (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/22146
+#EXTINF:0 tvg-id="ext" group-title="Channels",U-NITV 41 (ESP)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/22148
+#EXTINF:0 tvg-id="ext" group-title="Channels",U-NITV CHICAGO (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/22151
+#EXTINF:0 tvg-id="ext" group-title="Channels",U-NITV HOUSTON (ESP)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/22155
+#EXTINF:0 tvg-id="ext" group-title="Channels",U-NITV MIAMI (ESP) (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/22157
+#EXTINF:0 tvg-id="ext" group-title="Channels",U-NITV NEW YORK (ESP)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/22158
+#EXTINF:0 tvg-id="ext" group-title="Channels",U-NITV PHOENIX (ESP)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/22160
+#EXTINF:0 tvg-id="ext" group-title="Channels",UNIVISION PR (ESP)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/22162
+#EXTINF:0 tvg-id="ext" group-title="Channels",Unimas Sacramento (r)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/16786
+#EXTINF:0 tvg-id="ext" group-title="Channels",UNIMAS MIAMI (ESP) (r)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/22166
+#EXTINF:0 tvg-id="ext" group-title="Channels",UNIMAS PHOENIX (ESP)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/22169
+#EXTINF:0 tvg-id="ext" group-title="Channels",UNIMAS CHICAGO (ESP)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/22380
+#EXTINF:0 tvg-id="ext" group-title="Channels",T-DSPORTSxtra 1
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/21914
+#EXTINF:0 tvg-id="ext" group-title="Channels",T-DSPORTSxtra 2
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/21915
+#EXTINF:0 tvg-id="ext" group-title="Channels",T-DSPORTSxtra 3
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/21916
+#EXTINF:0 tvg-id="ext" group-title="Channels",T-DSPORTSxtra 4
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/21917
+#EXTINF:0 tvg-id="ext" group-title="Channels",T-DSPORTSxtra 6
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/21919
+#EXTINF:0 tvg-id="ext" group-title="Channels",T-DSPORTSxtra 5
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/21918
+#EXTINF:0 tvg-id="ext" group-title="Channels",T-DSPORTSxtra 7
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/21920
+#EXTINF:0 tvg-id="ext" group-title="Channels",T-DSPORTSxtra 8
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/21921
+#EXTINF:0 tvg-id="ext" group-title="Channels",T-DSPORTSxtra 9
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/21922
+#EXTINF:0 tvg-id="ext" group-title="Channels",T-DSPORTSxtra 10
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/21923
+#EXTINF:0 tvg-id="ext" group-title="Channels",T-DSPORTSxtra 11
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/21924
+#EXTINF:0 tvg-id="ext" group-title="Channels",4K | HBO 2 (ENCODER 1920P / 29 FPS)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/19742
+#EXTINF:0 tvg-id="ext" group-title="Channels",HBO XTREME HD (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/18835
+#EXTINF:0 tvg-id="ext" group-title="Channels",HBO Family (BR)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/19738
+#EXTINF:0 tvg-id="ext" group-title="Channels",HBO + (BR)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/19739
+#EXTINF:0 tvg-id="ext" group-title="Channels",HBO 2 (BR)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/19740
+#EXTINF:0 tvg-id="ext" group-title="Channels",4K | HBO Family (ENCODER 1920P / 29 FPS) (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/19743
+#EXTINF:0 tvg-id="ext" group-title="Channels",4K | HBO (ENCODER 1920P / 29 FPS)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/19744
+#EXTINF:0 tvg-id="ext" group-title="Channels",4K | HBO + (ENCODER ) (1920P / 29 FPS)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/19745
+#EXTINF:0 tvg-id="ext" group-title="Channels",4K | HBO SUB (ENCODER ) (1920P / 29 FPS) (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/21346
+#EXTINF:0 tvg-id="ext" group-title="Channels",4K | Starz Kids & Family FHD (1920P / 29 FPS)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/13935
+#EXTINF:0 tvg-id="ext" group-title="Channels",4K  | DHE FHD (1920P / 29 FPS)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/14741
+#EXTINF:0 tvg-id="ext" group-title="Channels",4K | H2 #Op2 (1920P / 29 FPS)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/16805
+#EXTINF:0 tvg-id="ext" group-title="Channels",4K | HISTORY CHANNEL OP#3 FHD (1920P / 29 FPS) (C)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/18294
+#EXTINF:0 tvg-id="ext" group-title="Channels",4K | Discovery H&H (1920P / 29 FPS)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/17540
+#EXTINF:0 tvg-id="ext" group-title="Channels",4K | SPACE (1920P / 29 FPS) (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/18839
+#EXTINF:0 tvg-id="ext" group-title="Channels",4K | Cinecanal ENCODER (1920P / 29 FPS) (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/19707
+#EXTINF:0 tvg-id="ext" group-title="Channels",4K | HISTORY CHANNEL (ENCODER ) (1920P / 29 FPS)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/21341
+#EXTINF:0 tvg-id="ext" group-title="Channels",4K | STAR CHANNEL (ENCODER ) (1920P / 29 FPS) (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/21342
+#EXTINF:0 tvg-id="ext" group-title="Channels",4K | AZTECA UNO ENCODER (1920P / 29 FPS)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/21343
+#EXTINF:0 tvg-id="ext" group-title="Channels",4K | CINEMAX ENCODER (1920P / 29 FPS)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/21344
+#EXTINF:0 tvg-id="ext" group-title="Channels",HBO Xtreme SD Latino
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/23514
+#EXTINF:0 tvg-id="ext" group-title="Channels",Telemundo Puerto rico Op3
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/23515
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canal 2 (NIC) (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/21935
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canal 4 (NIC)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/21934
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canal 6 (NIC) (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/21933
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canal 8 (NIC) (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/21932
+#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL 11 (NIC)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/21931
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canal 13 Viva Nicaragua (NIC)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/21930
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canal 14 (NIC)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/21929
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canal 10 (NIC)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/21928
+#EXTINF:0 tvg-id="ext" group-title="Channels",FOX SPORTS SD (MX) (DA)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/23524
+#EXTINF:0 tvg-id="ext" group-title="Channels",FOX SPORTS 2 SD (MX) (DA)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/23525
+#EXTINF:0 tvg-id="ext" group-title="Channels",FOX SPORTS 3 SD (MX) (DA)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/23526
+#EXTINF:0 tvg-id="ext" group-title="Channels",FOX SPORTS 1 HD (MX) (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/23527
+#EXTINF:0 tvg-id="ext" group-title="Channels",FOX SPORTS 2 HD (MX)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/23528
+#EXTINF:0 tvg-id="ext" group-title="Channels",FOX SPORTS SD (ARG) (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/23530
+#EXTINF:0 tvg-id="ext" group-title="Channels",FOX SPORTS 2  SD (ARG) (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/23531
+#EXTINF:0 tvg-id="ext" group-title="Channels",FOX SPORTS 3 SD (ARG)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/23532
+#EXTINF:0 tvg-id="ext" group-title="Channels",FOX SPORTS Mex (ENCODER ) (HEVC H.265 / 50 FPS)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/23533
+#EXTINF:0 tvg-id="ext" group-title="Channels",FOX SPORTS 2 HD (ARG) (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/23534
+#EXTINF:0 tvg-id="ext" group-title="Channels",FOX SPORTS 3 HD (ARG)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/23535
+#EXTINF:0 tvg-id="FoxSports2HD.mx" group-title="Channels",FOX SPORTS 2 HD (SUR)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/23536
+#EXTINF:0 tvg-id="FoxSportsPremium.pe" group-title="Channels",FOX SPORTS PREMIUM SD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/23537
+#EXTINF:0 tvg-id="ext" group-title="Channels",FOX SPORTS PREMIUM HD (ARG) (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/23538
+#EXTINF:0 tvg-id="ext" group-title="Channels",FOX SPORTS HD (BR)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/23540
+#EXTINF:0 tvg-id="ext" group-title="Channels",FOX SPORTS 2 HD (BR)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/23541
+#EXTINF:0 tvg-id="ext" group-title="Channels",FOX SPORTS 1 (FS1 -US) (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/23542
+#EXTINF:0 tvg-id="ext" group-title="Channels",FOX SPORTS 2 (FS2 -US) (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/23543
+#EXTINF:0 tvg-id="ext" group-title="Channels",FOX Sports (Arizona - US)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/23544
+#EXTINF:0 tvg-id="ext" group-title="Channels",FOX SPORTS (San Diego - US)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/23545
+#EXTINF:0 tvg-id="ext" group-title="Channels",FOX SPORTS (South - US)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/23547
+#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN 3 MEX (ENCODER ) (HEVC H.265 / 50 FPS)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/23550
+#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN + MEX (ENCODER ) (HEVC H.265 / 50 FPS)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/23551
+#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN 3 FHD(ARG)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/23554
+#EXTINF:0 tvg-id="ESPN.uk" group-title="Channels",ESPN SD (SUR)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/23555
+#EXTINF:0 tvg-id="ESPN2.mx" group-title="Channels",ESPN 2 SD (SUR)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/23556
+#EXTINF:0 tvg-id="ESPN3.mx" group-title="Channels",ESPN 3 SD (SUR)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/23557
+#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN (US)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/23558
+#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN U (US) (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/23559
+#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN 2 (US) (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/23560
+#EXTINF:0 tvg-id="ESPNews.us" group-title="Channels",ESPN News
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/23561
+#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN Deportes FHD (US)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/23562
+#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN Play (Latino)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/23563
+#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN HD (BR)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/23564
+#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN 2 HD (BR)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/23565
+#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN Extra HD (BR)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/23566
+#EXTINF:0 tvg-id="ESPN.uk" group-title="Channels",ESPN HD (SUR)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/23567
+#EXTINF:0 tvg-id="ESPN2.us" group-title="Channels",ESPN 2 HD (SUR)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/23568
+#EXTINF:0 tvg-id="ESPN3HD.mx" group-title="Channels",ESPN 3 HD (SUR)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/23569
+#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN + HD (US)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/23570
+#EXTINF:0 tvg-id="ext" group-title="Channels",PPV | ESPN Play
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/23571
+#EXTINF:0 tvg-id="ext" group-title="Channels",IT | Rete 4 Mediaset
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/23587
+#EXTINF:0 tvg-id="ext" group-title="Channels",WIN Sports +  HD (CO)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/23594
+#EXTINF:0 tvg-id="ext" group-title="Channels",Win Sports + SD (CO)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/23596
+#EXTINF:0 tvg-id="ext" group-title="Channels",WIN Sports FHD (CO)---
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/23598
+#EXTINF:0 tvg-id="ext" group-title="Channels",TIGO Sports  FHD (PY)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/23600
+#EXTINF:0 tvg-id="ext" group-title="Channels",TIGO SPORTS + HD (GT)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/23603
+#EXTINF:0 tvg-id="ext" group-title="Channels",TIGO SPORTS (GT) (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/23604
+#EXTINF:0 tvg-id="ext" group-title="Channels",TIGO SPORTS HD (CR)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/23605
+#EXTINF:0 tvg-id="ext" group-title="Channels",TIGO SPORTS FHD (HN)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/23606
+#EXTINF:0 tvg-id="ext" group-title="Channels",TIGO SPORTS 1 SD (BO)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/23608
+#EXTINF:0 tvg-id="ext" group-title="Channels",TIGO SPORTS 2 SD (BO) (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/23609
+#EXTINF:0 tvg-id="ext" group-title="Channels",TIGO SPORTS 3 SD (BO)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/23610
+#EXTINF:0 tvg-id="ext" group-title="Channels",TIGO SPORTS FHD OP2 (CR)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/23611
+#EXTINF:0 tvg-id="ext" group-title="Channels",De pelicuala Classic HD Latino
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/23976
+#EXTINF:0 tvg-id="ext" group-title="Channels",Golden Premiere 2 FHD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/24021
+#EXTINF:0 tvg-id="ext" group-title="Channels",U-NITV Austin
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/24086
+#EXTINF:0 tvg-id="ext" group-title="Channels",PLUTO TV | The Walking Dead ESP
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/24139
+#EXTINF:0 tvg-id="ext" group-title="Channels",MOVIS DEPORTES
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/24163
+#EXTINF:0 tvg-id="ext" group-title="Channels",19/05 - 20:30 | Pachuca vs Cruz Azul  | FOX SPORTS 2 HD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/24199
+#EXTINF:0 tvg-id="ext" group-title="Channels",Cinema DC Universe HD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/10745
+#EXTINF:0 tvg-id="ext" group-title="Channels",Cinema Lego Movies HD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/11191
+#EXTINF:0 tvg-id="ext" group-title="Channels",Cinema Happy Madisson HD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/11190
+#EXTINF:0 tvg-id="ext" group-title="Channels",Cinema Ciencia Ficcion HD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/11189
+#EXTINF:0 tvg-id="ext" group-title="Channels",Cinema Accion Classics HD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/11188
+#EXTINF:0 tvg-id="ext" group-title="Channels",Cinema Disney Family HD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/11186
+#EXTINF:0 tvg-id="ext" group-title="Channels",Cinema Horror HD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/10749
+#EXTINF:0 tvg-id="ext" group-title="Channels",Cinema Disney Pixar HD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/10748
+#EXTINF:0 tvg-id="ext" group-title="Channels",Cinema Marvel Studios HD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/10747
+#EXTINF:0 tvg-id="ext" group-title="Channels",Cinema Marvel Animado HD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/10746
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Futurama
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/14610
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 La Vaca y El Pollito
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/14611
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Las Chicas Superpoderosas
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/14612
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Los Picapiedras
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/14613
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Los Simpsons Noche De Brujas
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/14615
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Super Mario Bross 3
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/14616
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Bubble Guppies
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/14720
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 1000 manera de morir
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/15858
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Cinema Universo
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/14604
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Friends FHD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/17541
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7  Los Castores Cascarrabias
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/17543
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Harry Potter FHD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/17547
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Chapulin Colorado
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/17548
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Disney Movies
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/17549
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 El CoyOte el correcamino
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/17553
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Los Caballeros del  Zodiaco
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/17552
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Disney Princess FHD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/17550
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Autobus Magico
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/14605
+#EXTINF:0 tvg-id="ext" group-title="Channels",DISCOVERY EN ESPANOL FHD  (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/24222
+#EXTINF:0 tvg-id="ext" group-title="Channels",STARZ Encore Espanol (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/24224
+#EXTINF:0 tvg-id="ext" group-title="Channels",On Directv FHD (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/24226
+#EXTINF:0 tvg-id="ext" group-title="Channels",T-UDN USA SD (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/24228
+#EXTINF:0 tvg-id="ext" group-title="Channels",T-MUNDO California Los Angeles (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/24251
+#EXTINF:0 tvg-id="ext" group-title="Channels",T-MUNDO West Virginia (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/24252
+#EXTINF:0 tvg-id="ext" group-title="Channels",SEXMEX
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/24256
+#EXTINF:0 tvg-id="ext" group-title="Channels",T-MUNDO Newjersey (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/24257
+#EXTINF:0 tvg-id="ext" group-title="Channels",T-UDN USA HD (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/24258
+#EXTINF:0 tvg-id="ext" group-title="Channels",T-UDN HD (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/24259
+#EXTINF:0 tvg-id="ext" group-title="Channels",19/05 - 20:30 | Pachuca vs Cruz Azul | FOX SPORTS HD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/24265
+#EXTINF:0 tvg-id="ext" group-title="Channels",AMC LATINO (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/24266
+#EXTINF:0 tvg-id="ext" group-title="Channels",AMC FHD (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/24267
+#EXTINF:0 tvg-id="ext" group-title="Channels",ANIMAL PLANET FHD (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/24269
+#EXTINF:0 tvg-id="ext" group-title="Channels",AZTECA 7 FHD (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/24270
+#EXTINF:0 tvg-id="ext" group-title="Channels",AZTECA UNO -2 HORAS (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/24271
+#EXTINF:0 tvg-id="ext" group-title="Channels",BOOMERANG FHD (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/24273
+#EXTINF:0 tvg-id="ext" group-title="Channels",CDO FHD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/24275
+#EXTINF:0 tvg-id="ext" group-title="Channels",CINEMAX FHD OP2 (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/24276
+#EXTINF:0 tvg-id="ext" group-title="Channels",EPIX 2 EAST  HD (r)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/24277
+#EXTINF:0 tvg-id="ext" group-title="Channels",EPIX 2 ESTE HD (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/24278
+#EXTINF:0 tvg-id="ext" group-title="Channels",EPIX DRIVE HD (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/24279
+#EXTINF:0 tvg-id="ext" group-title="Channels",EPIX HITS HD (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/24280
+#EXTINF:0 tvg-id="ext" group-title="Channels",EPIX1 HITS HD (r)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/24281
+#EXTINF:0 tvg-id="ext" group-title="Channels",FUTV FHD.
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/24286
+#EXTINF:0 tvg-id="ext" group-title="Channels",LAS ESTRELLAS  -2 HORAS HD (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/24287
+#EXTINF:0 tvg-id="ext" group-title="Channels",LAS ESTRELLAS SD (r)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/24288
+#EXTINF:0 tvg-id="ext" group-title="Channels",U-vision Atlanta Us (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/24290
+#EXTINF:0 tvg-id="ext" group-title="Channels",UFC FIGHT PASS (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/24291
+#EXTINF:0 tvg-id="ext" group-title="Channels",UNIMAS PR (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/24292
+#EXTINF:0 tvg-id="ext" group-title="Channels",T-MUNDO DALLAS FHD (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/24293
+#EXTINF:0 tvg-id="ext" group-title="Channels",Outermax Full HD ES (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/24296
+#EXTINF:0 tvg-id="ext" group-title="Channels",EN | CW
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/24806
+#EXTINF:0 tvg-id="ext" group-title="Channels",EN | CW Las vegas US
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/24807
+#EXTINF:0 tvg-id="ext" group-title="Channels",The CW Delaware (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/24810
+#EXTINF:0 tvg-id="ext" group-title="Channels",The CW Illinois Chicago (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/24811
+#EXTINF:0 tvg-id="ext" group-title="Channels",Encuentro HD (ARG) (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/24829
+#EXTINF:0 tvg-id="ext" group-title="Channels",El Nueve HD (ARG) (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/24831
+#EXTINF:0 tvg-id="ext" group-title="Channels",El trece HD (ARG) (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/24832
+#EXTINF:0 tvg-id="ext" group-title="Channels",Cronica Television HD (ARG) (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/24833
+#EXTINF:0 tvg-id="ext" group-title="Channels",C5N HD (ARG) (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/24834
+#EXTINF:0 tvg-id="ext" group-title="Channels",America TV HD (ARG) (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/24835
+#EXTINF:0 tvg-id="ext" group-title="Channels",Directv Sports Argentina (SD) (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/24836
+#EXTINF:0 tvg-id="ext" group-title="Channels",FOX SPORTS 2 (ARG) (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/24838
+#EXTINF:0 tvg-id="ext" group-title="Channels",FOX SPORTS 3 (ARG) (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/24839
+#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN (ARG) (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/24840
+#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN 2 (ARG) (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/24841
+#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN 3 (ARG) (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/24842
+#EXTINF:0 tvg-id="ext" group-title="Channels",AZTECA APRENDE EN CASA (APRENDE#EN#CASA) (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/24843
+#EXTINF:0 tvg-id="ext" group-title="Channels",IMAGEN APRENDE EN CASA (APRENDE#EN#CASA) (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/24844
+#EXTINF:0 tvg-id="ext" group-title="Channels",TELEVISA APRENDE EN CASA (APRENDE#EN#CASA) (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/24845
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV UNAM (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/24847
+#EXTINF:0 tvg-id="ext" group-title="Channels",MULTIMEDIOS CDMX (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/24849
+#EXTINF:0 tvg-id="ext" group-title="Channels",Foro TV (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/24850
+#EXTINF:0 tvg-id="ext" group-title="Channels",ADN 40 (r)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/24851
+#EXTINF:0 tvg-id="ext" group-title="Channels",FILM & ARTS HD (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/24854
+#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL 22.1 (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/24855
+#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL 22.2  (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/24856
+#EXTINF:0 tvg-id="ext" group-title="Channels",Oromar TV FHD (EC)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/24865
+#EXTINF:0 tvg-id="ext" group-title="Channels",RTS FHD (EC)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/24866
+#EXTINF:0 tvg-id="ext" group-title="Channels",PPV 2 | | ESPN 2 PLAY 4K
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/24867
+#EXTINF:0 tvg-id="ext" group-title="Channels",BBC One (UK)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/24898
+#EXTINF:0 tvg-id="ext" group-title="Channels",BBC Two (UK)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/24899
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK | SKY ONE FHD (N)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/17555
+#EXTINF:0 tvg-id="ext" group-title="Channels",SKY Sports Main Events (I)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/24992
+#EXTINF:0 tvg-id="ext" group-title="Channels",SKY Sports Cricket FHD (r)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/24993
+#EXTINF:0 tvg-id="SkySpArena.uk" group-title="Channels",SKY Sports Arena HD (I)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/24994
+#EXTINF:0 tvg-id="SkySpPL.uk" group-title="Channels",SKY Sports Premier League HD (I)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/24996
+#EXTINF:0 tvg-id="SkySpMix.uk" group-title="Channels",SKY Sports MIX (I)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/24997
+#EXTINF:0 tvg-id="AtTheRaces.uk" group-title="Channels",SKY Sports Racing (I)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/24998
+#EXTINF:0 tvg-id="ext" group-title="Channels",SKY SPORTS F1 (Z)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/24999
+#EXTINF:0 tvg-id="ext" group-title="Channels",SUPER BROWL | FOX SPORTS HD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/25027
+#EXTINF:0 tvg-id="ext" group-title="Channels",SUPER BROWL | MOVISTAR DEPORTES
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/25029
+#EXTINF:0 tvg-id="ext" group-title="Channels",SUPER BROWL | ESPN PLAY
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/25030
+#EXTINF:0 tvg-id="ext" group-title="Channels",SUPER BROWL | ESPN EXTRA
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/25031
+#EXTINF:0 tvg-id="ext" group-title="Channels",SUPER BROWL | ESPN 2 PLAY
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/25032
+#EXTINF:0 tvg-id="ext" group-title="Channels",SUPER BROWL | ESPN DEPORTES (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/25033
+#EXTINF:0 tvg-id="ext" group-title="Channels",SUPER BROWL | CBS Wisconsin
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/25035
+#EXTINF:0 tvg-id="ext" group-title="Channels",Teleamazonas FHD (N)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/25039
+#EXTINF:0 tvg-id="ext" group-title="Channels",SUPER BROWL | FOX SPORTS HD (MX)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/25040
+#EXTINF:0 tvg-id="ext" group-title="Channels",IZZI FHD (MX) (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/25043
+#EXTINF:0 tvg-id="ext" group-title="Channels",SUPER BROWL | FOX SPORTS 2 HD (MX)(B)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/25044
+#EXTINF:0 tvg-id="ext" group-title="Channels",SKY CINEMA PREMIERE 1 (D)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/25046
+#EXTINF:0 tvg-id="ext" group-title="Channels",SKY CINEMA PREMIERE 2 (D)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/25047
+#EXTINF:0 tvg-id="ext" group-title="Channels",SKY CINEMA PREMIERE 3 (N)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/25048
+#EXTINF:0 tvg-id="ext" group-title="Channels",SKY CINEMA PREMIERE 4 (D)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/25049
+#EXTINF:0 tvg-id="ext" group-title="Channels",SKY CINEMA PREMIERE 5 (D)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/25050
+#EXTINF:0 tvg-id="ext" group-title="Channels",SKY CINEMA PREMIERE 6 (D)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/25051
+#EXTINF:0 tvg-id="ext" group-title="Channels",SKY CINEMA PREMIERE 7 (D)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/25052
+#EXTINF:0 tvg-id="ext" group-title="Channels",4K | #0 (ENCODER 1920P / 29 FPS)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/25054
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Acapulco Shore
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/25055
+#EXTINF:0 tvg-id="ext" group-title="Channels",AZTECA UNO - 2 HORAS
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/25056
+#EXTINF:0 tvg-id="ext" group-title="Channels",TELEVISA TIGUANA HD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/25080
+#EXTINF:0 tvg-id="ext" group-title="Channels",19/05 - 20:30 | Pachuca vs Cruz Azul | CLARO SPORTS FHD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/25081
+#EXTINF:0 tvg-id="ext" group-title="Channels",A&E HD (r)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/25082
+#EXTINF:0 tvg-id="ext" group-title="Channels",AMC HD (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/25083
+#EXTINF:0 tvg-id="ext" group-title="Channels",AXN HD (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/25085
+#EXTINF:0 tvg-id="ext" group-title="Channels",AZ CINEMA (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/25086
+#EXTINF:0 tvg-id="ext" group-title="Channels",AZ CORAZON HD (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/25088
+#EXTINF:0 tvg-id="ext" group-title="Channels",AZ MUNDO HD (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/25089
+#EXTINF:0 tvg-id="ext" group-title="Channels",BANDAMAX (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/25090
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN SPORTS XTRA HD (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/25091
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN SPORTS LA LIGA HD (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/25092
+#EXTINF:0 tvg-id="ext" group-title="Channels",BOOMERANG HD (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/25094
+#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL 10 (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/25095
+#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL 13 C (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/25097
+#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL 13 HD (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/25098
+#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL 14 (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/25099
+#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL 28 CHIHUAHUA (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/25100
+#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL 4 GUADALAJARA (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/25101
+#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL 66 MEXICALI (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/25102
+#EXTINF:0 tvg-id="ext" group-title="Channels",CINE LATINO (r)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/25103
+#EXTINF:0 tvg-id="ext" group-title="Channels",CINEMAX  (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/25104
+#EXTINF:0 tvg-id="ext" group-title="Channels",4K | COMEDY CENTRAL HD (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/25105
+#EXTINF:0 tvg-id="ext" group-title="Channels",DISCOVERY EN ESPANOL HD (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/25108
+#EXTINF:0 tvg-id="ext" group-title="Channels",DISCOVERY HOME & HEALTH (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/25109
+#EXTINF:0 tvg-id="ext" group-title="Channels",DISCOVERY FAMILIA (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/25110
+#EXTINF:0 tvg-id="ext" group-title="Channels",DISCOVERY TURBO (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/25111
+#EXTINF:0 tvg-id="ext" group-title="Channels",STAR ACTION FHD LATINO (B)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/25113
+#EXTINF:0 tvg-id="ext" group-title="Channels",4K | STAR ACTION (R) (1920P / 29 FPS)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/25114
+#EXTINF:0 tvg-id="ext" group-title="Channels",DISCOVERY WORLD HD (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/25115
+#EXTINF:0 tvg-id="ext" group-title="Channels",DISCOVERY THEATER HD (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/25116
+#EXTINF:0 tvg-id="ext" group-title="Channels",DISNEY JUNIOR (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/25117
+#EXTINF:0 tvg-id="ext" group-title="Channels",DISNEY XD (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/25118
+#EXTINF:0 tvg-id="ext" group-title="Channels",E ! (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/25120
+#EXTINF:0 tvg-id="ext" group-title="Channels",FILM  ARTS HD (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/25121
+#EXTINF:0 tvg-id="ext" group-title="Channels",FOX FAMILY (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/25126
+#EXTINF:0 tvg-id="ext" group-title="Channels",STAR ACTION (r)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/25127
+#EXTINF:0 tvg-id="ext" group-title="Channels",FOX LIFE (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/25128
+#EXTINF:0 tvg-id="ext" group-title="Channels",FOX MOVIES (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/25129
+#EXTINF:0 tvg-id="ext" group-title="Channels",FX (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/25130
+#EXTINF:0 tvg-id="ext" group-title="Channels",FXM HD (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/25131
+#EXTINF:0 tvg-id="ext" group-title="Channels",GOLDEN +
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/25134
+#EXTINF:0 tvg-id="ext" group-title="Channels",GOLDEN PREMIER (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/25136
+#EXTINF:0 tvg-id="ext" group-title="Channels",HBO (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/25137
+#EXTINF:0 tvg-id="ext" group-title="Channels",HBO 2 HD (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/25139
+#EXTINF:0 tvg-id="ext" group-title="Channels",HBO FAMILY FHD (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/25140
+#EXTINF:0 tvg-id="ext" group-title="Channels",HBO MUNDI  (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/25141
+#EXTINF:0 tvg-id="ext" group-title="Channels",HBO POP HD (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/25142
+#EXTINF:0 tvg-id="ext" group-title="Channels",HBO SIGNATURE HD (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/25143
+#EXTINF:0 tvg-id="ext" group-title="Channels",HBO XTREME FHD (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/25144
+#EXTINF:0 tvg-id="ext" group-title="Channels",HISTORY (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/25145
+#EXTINF:0 tvg-id="ext" group-title="Channels",HISTORY 2 HD (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/25146
+#EXTINF:0 tvg-id="ext" group-title="Channels",HOLA TV (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/25147
+#EXTINF:0 tvg-id="ext" group-title="Channels",IMAGEN TV (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/25148
+#EXTINF:0 tvg-id="ext" group-title="Channels",INGENIO TV (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/25149
+#EXTINF:0 tvg-id="ext" group-title="Channels",INVESTIGATION DISCOVERY HD (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/25150
+#EXTINF:0 tvg-id="ext" group-title="Channels",LAS ESTRELLAS HD (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/25151
+#EXTINF:0 tvg-id="ext" group-title="Channels",LAS ESTRELLAS  -2 HORAS  (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/25152
+#EXTINF:0 tvg-id="ext" group-title="Channels",Moviecenter Kids (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/25154
+#EXTINF:0 tvg-id="ext" group-title="Channels",Moviecenter Premium Este (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/25155
+#EXTINF:0 tvg-id="ext" group-title="Channels",PARAMOUNT (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/25156
+#EXTINF:0 tvg-id="ext" group-title="Channels",LIFETIME FHD (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/25194
+#EXTINF:0 tvg-id="ext" group-title="Channels",MAS CHIC (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/25195
+#EXTINF:0 tvg-id="ext" group-title="Channels",MORBIDO TV (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/25196
+#EXTINF:0 tvg-id="ext" group-title="Channels",MOVISTAR ACCION (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/25198
+#EXTINF:0 tvg-id="ext" group-title="Channels",MOVISTAR COMEDIA (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/25199
+#EXTINF:0 tvg-id="ext" group-title="Channels",MOVISTAR DCINE (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/25200
+#EXTINF:0 tvg-id="ext" group-title="Channels",MOVISTAR DISNEY (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/25202
+#EXTINF:0 tvg-id="ext" group-title="Channels",MOVISTAR DRAMA (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/25204
+#EXTINF:0 tvg-id="ext" group-title="Channels",MOVISTAR ESTRENOS (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/25205
+#EXTINF:0 tvg-id="ext" group-title="Channels",MOVISTAR F1 (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/25206
+#EXTINF:0 tvg-id="ext" group-title="Channels",MOVISTAR LA LIGA (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/25207
+#EXTINF:0 tvg-id="ext" group-title="Channels",MOVISTAR SERIES (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/25208
+#EXTINF:0 tvg-id="ext" group-title="Channels",MOVISTAR VAMOS (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/25209
+#EXTINF:0 tvg-id="ext" group-title="Channels",SYFY HD (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/25210
+#EXTINF:0 tvg-id="ext" group-title="Channels",TNT HD (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/25211
+#EXTINF:0 tvg-id="ext" group-title="Channels",WARNER HD (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/25213
+#EXTINF:0 tvg-id="ext" group-title="Channels",History FHD (CO)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/25214
+#EXTINF:0 tvg-id="ext" group-title="Channels",Cartoon Network FHD (CO)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/25215
+#EXTINF:0 tvg-id="ext" group-title="Channels",Discovery Civilization FHD (CO)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/25216
+#EXTINF:0 tvg-id="ext" group-title="Channels",Discovery Science FHD (CO)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/25217
+#EXTINF:0 tvg-id="ext" group-title="Channels",STAR Channel FHD (CO)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/25218
+#EXTINF:0 tvg-id="ext" group-title="Channels",STAR Fun  FHD  (CO)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/25219
+#EXTINF:0 tvg-id="ext" group-title="Channels",STAR Series FHD (CO)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/25220
+#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL 10 CANCUN
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/25229
+#EXTINF:0 tvg-id="ext" group-title="Channels",4K | TOP CINE (ENCODER 1920P / 29 FPS)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/25230
+#EXTINF:0 tvg-id="ext" group-title="Channels",4K | CINE SURENO (ENCODER 1920P / 29 FPS)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/25231
+#EXTINF:0 tvg-id="ext" group-title="Channels",4K | JUNTOS (ENCODER 1920P / 29 FPS)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/25232
+#EXTINF:0 tvg-id="ext" group-title="Channels",4K | HORRORIFY US (ENCODER 1920P / 29 FPS)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/25233
+#EXTINF:0 tvg-id="ext" group-title="Channels",RCG | SD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/25325
+#EXTINF:0 tvg-id="ext" group-title="Channels",RCG 2 | SD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/25326
+#EXTINF:0 tvg-id="ext" group-title="Channels",RCG 3 | SD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/25327
+#EXTINF:0 tvg-id="ext" group-title="Channels",TVP Mazatlan | FHD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/25328
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canal 10 Chetumal
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/25329
+#EXTINF:0 tvg-id="ext" group-title="Channels",Extrema TV
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/25330
+#EXTINF:0 tvg-id="ext" group-title="Channels",RCG 1 Saltillo
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/25331
+#EXTINF:0 tvg-id="ext" group-title="Channels",RTQ Queretaro
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/25332
+#EXTINF:0 tvg-id="ext" group-title="Channels",TEN Live
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/25333
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canal 4 | SD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/25334
+#EXTINF:0 tvg-id="ext" group-title="Channels",Teleamazonas HD Sierra
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/25335
+#EXTINF:0 tvg-id="ext" group-title="Channels",HISTORY EN ESPANOL US (r)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/25351
+#EXTINF:0 tvg-id="ext" group-title="Channels",NBA League Pass 7 HD US
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/25369
+#EXTINF:0 tvg-id="ext" group-title="Channels",NBA League Pass 8 HD  US
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/25370
+#EXTINF:0 tvg-id="ext" group-title="Channels",CHIVAS TV
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/25391
+#EXTINF:0 tvg-id="ext" group-title="Channels",SKY SPORTS 16 HD (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/25392
+#EXTINF:0 tvg-id="ext" group-title="Channels",DISCOVERY WORLD FHD (D)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/25393
+#EXTINF:0 tvg-id="ext" group-title="Channels",DISCOVERY SCIENCE LATINO FHD (D)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/25394
+#EXTINF:0 tvg-id="ext" group-title="Channels",Discovery TLC HD (D)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/25395
+#EXTINF:0 tvg-id="ext" group-title="Channels",MariaVision HD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/27980
+#EXTINF:0 tvg-id="ext" group-title="Channels",NBA League Pass 9 HD US
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/27984
+#EXTINF:0 tvg-id="ext" group-title="Channels",MLB Extra Innings 5 US
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/27988
+#EXTINF:0 tvg-id="ext" group-title="Channels",LA VOZ DE MARIA
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/27990
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Ticavision Canal 38.2 HD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28096
+#EXTINF:0 tvg-id="ext" group-title="Channels",DW Espanol (CR)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28097
+#EXTINF:0 tvg-id="ext" group-title="Channels",NHL  1 Games
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28111
+#EXTINF:0 tvg-id="ext" group-title="Channels",19:00 ( NHL ) Dallas vs Chicago
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28113
+#EXTINF:0 tvg-id="ext" group-title="Channels",19:30 ( NHL ) Columbus at Dallas
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28114
+#EXTINF:0 tvg-id="ext" group-title="Channels",18:30 ( NHL ) Chicago at Detroit
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28115
+#EXTINF:0 tvg-id="ext" group-title="Channels",18:00 ( NHL ) Philadelphia at Pittsburgh
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28118
+#EXTINF:0 tvg-id="ext" group-title="Channels",MLB Extra Innings 6 US
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28121
+#EXTINF:0 tvg-id="ext" group-title="Channels",MLB Extra Innings 7 US
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28122
+#EXTINF:0 tvg-id="ext" group-title="Channels",MLB Extra Innings 8 US
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28123
+#EXTINF:0 tvg-id="ext" group-title="Channels",ABC 10 San Diego HD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28507
+#EXTINF:0 tvg-id="ext" group-title="Channels",CBS 8 San Diego HD (r)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28508
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: FOX 5 (SAN DIEGO) HD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28509
+#EXTINF:0 tvg-id="ext" group-title="Channels",NBC 7 San Diego
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28510
+#EXTINF:0 tvg-id="ext" group-title="Channels",NCAA Games 6
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28511
+#EXTINF:0 tvg-id="ext" group-title="Channels",NCAA Game 5
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28513
+#EXTINF:0 tvg-id="ext" group-title="Channels",NCAA Game 4
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28514
+#EXTINF:0 tvg-id="ext" group-title="Channels",NCAA Game 3
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28515
+#EXTINF:0 tvg-id="ext" group-title="Channels",NCAA Game 2
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28517
+#EXTINF:0 tvg-id="ext" group-title="Channels",NCAA Game 1
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28518
+#EXTINF:0 tvg-id="ext" group-title="Channels",NBA League Pass 10 HD  US
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28547
+#EXTINF:0 tvg-id="ext" group-title="Channels",Multimedio Monterrey FHD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28560
+#EXTINF:0 tvg-id="ext" group-title="Channels",Movistar LA LIGA 1 FHD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28637
+#EXTINF:0 tvg-id="ext" group-title="Channels",Movistar LA LIGA 2 FHD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28638
+#EXTINF:0 tvg-id="ext" group-title="Channels",Movistar LIGA DE CAMPEONES FHD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28639
+#EXTINF:0 tvg-id="ext" group-title="Channels",Movistar LA LIGA HD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28640
+#EXTINF:0 tvg-id="ext" group-title="Channels",MLB Extra Innings 9 US
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28650
+#EXTINF:0 tvg-id="ext" group-title="Channels",MLB Extra Innings 10 US
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28651
+#EXTINF:0 tvg-id="ext" group-title="Channels",T-MUNDO 51 (Miami)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28652
+#EXTINF:0 tvg-id="ext" group-title="Channels",WIN Sports HD (US)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/23592
+#EXTINF:0 tvg-id="ext" group-title="Channels",WIN Sports + (.CO)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/23593
+#EXTINF:0 tvg-id="ext" group-title="Channels",TIGO SPORTS HD (GT) (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/23602
+#EXTINF:0 tvg-id="ext" group-title="Channels",ABC 7 Los Angeles
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28683
+#EXTINF:0 tvg-id="ext" group-title="Channels",CBS 2 Los Angeles
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28684
+#EXTINF:0 tvg-id="ext" group-title="Channels",T-Mundo 52 Los Angeles (L)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28686
+#EXTINF:0 tvg-id="ext" group-title="Channels",T-MUNDO Los Angeles  #Op2
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28687
+#EXTINF:0 tvg-id="ext" group-title="Channels",FOX Los Angeles
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28689
+#EXTINF:0 tvg-id="ext" group-title="Channels",NBC 4 Los Angeles
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28690
+#EXTINF:0 tvg-id="ext" group-title="Channels",T-MUNDO 52  Los angeles
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28691
+#EXTINF:0 tvg-id="ext" group-title="Channels",My13 California Los Angeles
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28692
+#EXTINF:0 tvg-id="ext" group-title="Channels",UNIMAS 46 LOS ANGELES
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28693
+#EXTINF:0 tvg-id="ext" group-title="Channels",PBS California Los Angeles
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28694
+#EXTINF:0 tvg-id="ext" group-title="Channels",T-MUNDO Texas
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28724
+#EXTINF:0 tvg-id="ext" group-title="Channels",U-NITV Texas
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28725
+#EXTINF:0 tvg-id="ext" group-title="Channels",GALAVISION Houston HD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28726
+#EXTINF:0 tvg-id="ext" group-title="Channels",FOX Texas
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28727
+#EXTINF:0 tvg-id="ext" group-title="Channels",CBS Texas
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28729
+#EXTINF:0 tvg-id="ext" group-title="Channels",FISHING NETWORK
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28730
+#EXTINF:0 tvg-id="ISat.ar" group-title="Channels",I-Sat
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28741
+#EXTINF:0 tvg-id="Cnninternacional.br" group-title="Channels",CNNI
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28742
+#EXTINF:0 tvg-id="CNNEspanol.cl" group-title="Channels",CNN Español
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28743
+#EXTINF:0 tvg-id="ext" group-title="Channels",GALA
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28744
+#EXTINF:0 tvg-id="ext" group-title="Channels",MLB Extra Innings 11 US
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28747
+#EXTINF:0 tvg-id="ext" group-title="Channels",MLB Extra Innings 12 US
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28748
+#EXTINF:0 tvg-id="ext" group-title="Channels",MLB Extra Innings 13 US
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28749
+#EXTINF:0 tvg-id="ext" group-title="Channels",MLB Extra Innings 14 US
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28750
+#EXTINF:0 tvg-id="ext" group-title="Channels",4K | HISTORY EN ESPANOL US (ENCODER ) (1920P / 29 FPS)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28751
+#EXTINF:0 tvg-id="ext" group-title="Channels",4K | UNIVERSO HD US (ENCODER ) (1920P / 29 FPS)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28761
+#EXTINF:0 tvg-id="ext" group-title="Channels",U-NITV 34 Los Angeles
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28762
+#EXTINF:0 tvg-id="ext" group-title="Channels",U-NITV Los Angeles
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28763
+#EXTINF:0 tvg-id="ext" group-title="Channels",U-NITV 34 (Los Angeles) (B)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28764
+#EXTINF:0 tvg-id="ext" group-title="Channels",T-DSPORTS MX (r)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28765
+#EXTINF:0 tvg-id="ext" group-title="Channels",T-DSPORTS HD USA
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28766
+#EXTINF:0 tvg-id="ext" group-title="Channels",T-DSPORTS FHD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28767
+#EXTINF:0 tvg-id="ext" group-title="Channels",T-DSPORTS FHD MEX (RE)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28769
+#EXTINF:0 tvg-id="ext" group-title="Channels",4K | T-DSPORTS (ENCODER) (1920P / 29 FPS) (B)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28770
+#EXTINF:0 tvg-id="ext" group-title="Channels",T-DSPORTS US FHD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28771
+#EXTINF:0 tvg-id="ext" group-title="Channels",T-DSPORTSxtra USA FHD (r)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28773
+#EXTINF:0 tvg-id="ext" group-title="Channels",PPV 1 DAZN (ENGLISH)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28791
+#EXTINF:0 tvg-id="ext" group-title="Channels",PPV 2 | AZTECA DEPORTES
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28792
+#EXTINF:0 tvg-id="ext" group-title="Channels",PPV EVENT 2 | KNOCK OUT UFC
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28793
+#EXTINF:0 tvg-id="ext" group-title="Channels",SKY PREMIERE 9
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28801
+#EXTINF:0 tvg-id="ext" group-title="Channels",SKY PREMIERE 10
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28802
+#EXTINF:0 tvg-id="ext" group-title="Channels",SKY PREMIERE 11
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28803
+#EXTINF:0 tvg-id="ext" group-title="Channels",SKY PREMIERE 12
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28804
+#EXTINF:0 tvg-id="ext" group-title="Channels",NESN SPORT
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28805
+#EXTINF:0 tvg-id="ext" group-title="Channels",4K | FX FHD (1920P / 29 FPS)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28814
+#EXTINF:0 tvg-id="ext" group-title="Channels",4K | TNT Series FHD (ENCODER ) (1920P / 29 FPS)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28815
+#EXTINF:0 tvg-id="ext" group-title="Channels",4K | CONCERT CHANNEL FHD (ENCODER ) (1920P / 29 FPS)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28816
+#EXTINF:0 tvg-id="ext" group-title="Channels",4K | Golden Premier FHD (ENCODER ) (1920P / 29 FPS)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28817
+#EXTINF:0 tvg-id="ext" group-title="Channels",4K | FXM FHD (1920P / 29 FPS)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28818
+#EXTINF:0 tvg-id="ext" group-title="Channels",4K | Natgeo Wild  (ENCODER ) (HEVC H.265 / 50 FPS)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28819
+#EXTINF:0 tvg-id="ext" group-title="Channels",4K | Comedy Central FHD (ENCODER ) (1920P / 29 FPS)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28820
+#EXTINF:0 tvg-id="ext" group-title="Channels",4K | Star Series FHD (ENCODER ) (1920P / 29 FPS)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28822
+#EXTINF:0 tvg-id="ext" group-title="Channels",4K | Star Hits (ENCODER ) (1920P / 29 FPS)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28823
+#EXTINF:0 tvg-id="ext" group-title="Channels",Cozi TV US
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28824
+#EXTINF:0 tvg-id="Freeform.us" group-title="Channels",FreeForm US
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28825
+#EXTINF:0 tvg-id="ext" group-title="Channels",Cozi TV US East
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28826
+#EXTINF:0 tvg-id="ext" group-title="Channels",SBN Puerto Rico
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28830
+#EXTINF:0 tvg-id="ext" group-title="Channels",PPV EVENT 1 | KNOCK OUT UFC
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28833
+#EXTINF:0 tvg-id="ext" group-title="Channels",4K | De Peliculas Classic (ENCODER ) (HEVC H.265 / 35 FPS)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28868
+#EXTINF:0 tvg-id="ext" group-title="Channels",4K | De Peliculas US (ENCODER ) (HEVC H.265 / 50 FPS)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28869
+#EXTINF:0 tvg-id="ext" group-title="Channels",4K | SPACE Central (ENCODER ) (HEVC H.265 / 50 FPS)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28870
+#EXTINF:0 tvg-id="ext" group-title="Channels",4K | TELEMUNDO DEPORTES (ENCODER ) (HEVC H.265 / 50 FPS)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28871
+#EXTINF:0 tvg-id="ext" group-title="Channels",4K | TUDN MEX (ENCODER ) (HEVC H.265 / 50 FPS)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28872
+#EXTINF:0 tvg-id="ext" group-title="Channels",4K | UNIVERSO Oeste (ENCODER ) (HEVC H.265 / 50 FPS)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28873
+#EXTINF:0 tvg-id="ext" group-title="Channels",4K | CINE Sony US (ENCODER ) (HEVC H.265 / 50 FPS)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28874
+#EXTINF:0 tvg-id="ext" group-title="Channels",4K | History Us (ENCODER ) (HEVC H.265 / 50 FPS)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28875
+#EXTINF:0 tvg-id="ext" group-title="Channels",4K | Fight  Network US (ENCODER ) (HEVC H.265 / 50 FPS)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28876
+#EXTINF:0 tvg-id="ext" group-title="Channels",GOL TV US (ENCODER ) (HEVC H.265 / 50 FPS)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28878
+#EXTINF:0 tvg-id="ext" group-title="Channels",GOL TV ES (ENCODER ) (HEVC H.265 / 50 FPS)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28879
+#EXTINF:0 tvg-id="ext" group-title="Channels",4K | GOL TV ES (ENCODER ) (HEVC H.265 / 50 FPS)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28880
+#EXTINF:0 tvg-id="ext" group-title="Channels",4K | GOL TV US (ENCODER ) (HEVC H.265 / 50 FPS)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28881
+#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN+ MEX (ENCODER ) (HEVC H.265 / 50 FPS)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28885
+#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN2 MEX (ENCODER ) (HEVC H.265 / 50 FPS)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28886
+#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN3 MEX (ENCODER ) (HEVC H.265 / 50 FPS)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28887
+#EXTINF:0 tvg-id="ext" group-title="Channels",4K | FORO TV HD (ENCODER ) (HEVC H.265 / 50 FPS)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28888
+#EXTINF:0 tvg-id="ext" group-title="Channels",4K | TLNOVELA MEX (ENCODER ) (HEVC H.265 / 50 FPS)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28889
+#EXTINF:0 tvg-id="ext" group-title="Channels",4k | Claro Sports (ENCODER ) (HEVC H.265 / 50 FPS)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28890
+#EXTINF:0 tvg-id="ext" group-title="Channels",Las Estrellas HD (ENCODER ) (HEVC H.265 / 50 FPS)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28896
+#EXTINF:0 tvg-id="ext" group-title="Channels",4K | PARAMOUNT US (ENCODER ) (HEVC H.265 / 50 FPS)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28903
+#EXTINF:0 tvg-id="ext" group-title="Channels",PARAMOUNT US (ENCODER )
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28904
+#EXTINF:0 tvg-id="ext" group-title="Channels",4K | UNIMAS WEST US (ENCODER ) (HEVC H.265 / 50 FPS)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28920
+#EXTINF:0 tvg-id="ext" group-title="Channels",4K | UNIVISION EAST US (ENCODER ) (HEVC H.265 / 50 FPS)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28921
+#EXTINF:0 tvg-id="ext" group-title="Channels",4K | UNIVISION DEPORTES US (ENCODER ) (HEVC H.265 / 50 FPS)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28922
+#EXTINF:0 tvg-id="ext" group-title="Channels",4K | DISCOVERY ID (ENCODER ) (HEVC H.265 / 50 FPS)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28923
+#EXTINF:0 tvg-id="ext" group-title="Channels",DISCOVERY CHANNEL Encoder H.265
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28924
+#EXTINF:0 tvg-id="ext" group-title="Channels",ANIMAL PLANET Encoder H.265
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28925
+#EXTINF:0 tvg-id="ext" group-title="Channels",TNT Encoder H.265
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28926
+#EXTINF:0 tvg-id="ext" group-title="Channels",4K | WARNER CHANNEL (ENCODER ) (HEVC H.265 / 50 FPS)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28927
+#EXTINF:0 tvg-id="ext" group-title="Channels",4K | EDGE Mexico (ENCODER ) (HEVC H.265 / 50 FPS)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28930
+#EXTINF:0 tvg-id="ext" group-title="Channels",4K | TELEMUNDO 33 (ENCODER ) (HEVC H.265 / 50 FPS)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28931
+#EXTINF:0 tvg-id="ext" group-title="Channels",4K | HBO 2 MEX (ENCODER ) (HEVC H.265 / 50 FPS)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28934
+#EXTINF:0 tvg-id="ext" group-title="Channels",SHEMALE 1 HD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28935
+#EXTINF:0 tvg-id="VenusTV.uk" group-title="Channels",Venus
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28936
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sextreme mex
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28937
+#EXTINF:0 tvg-id="ext" group-title="Channels",Mia Khalifa HD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28938
+#EXTINF:0 tvg-id="nu-art" group-title="Channels",Nuart TV
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28939
+#EXTINF:0 tvg-id="ext" group-title="Channels",PPV EVENT KNOCK OUT UFC HD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28944
+#EXTINF:0 tvg-id="ext" group-title="Channels",FOX Sports Premium (AR)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28946
+#EXTINF:0 tvg-id="ext" group-title="Channels",TNT Sports (AR)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28947
+#EXTINF:0 tvg-id="ext" group-title="Channels",Telefe HD (AR)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28948
+#EXTINF:0 tvg-id="ext" group-title="Channels",Las Estrellas - XEW  H.265 Encoder
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28952
+#EXTINF:0 tvg-id="ext" group-title="Channels",Azteca Uno - XHDF H.265 Encoder
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28953
+#EXTINF:0 tvg-id="ext" group-title="Channels",Azteca Siete - XHIMT H.265 Encoder
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28954
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canal 5 - XHGC H.265 Encoder
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28955
+#EXTINF:0 tvg-id="ext" group-title="Channels",Imagen H.265 Encoder
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28956
+#EXTINF:0 tvg-id="ext" group-title="Channels",Hola TV H.265 Encoder
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28957
+#EXTINF:0 tvg-id="ext" group-title="Channels",Unicable H.265 Encoder
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28958
+#EXTINF:0 tvg-id="ext" group-title="Channels",A3Series H.265 Encoder
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28959
+#EXTINF:0 tvg-id="ext" group-title="Channels",Distrito Comedia H.265 Encoder
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28960
+#EXTINF:0 tvg-id="ext" group-title="Channels",Telemundo Mexico H.265 Encoder
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28961
+#EXTINF:0 tvg-id="ext" group-title="Channels",Univision Noticia H.265 Encoder
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28962
+#EXTINF:0 tvg-id="ext" group-title="Channels",Univision Deportes H.265 Encoder
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28963
+#EXTINF:0 tvg-id="ext" group-title="Channels",Unimas H.265 Encoder
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28964
+#EXTINF:0 tvg-id="ext" group-title="Channels",Telemundo East Feed H.265 Encoder
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28965
+#EXTINF:0 tvg-id="ext" group-title="Channels",AXN H.265 Encoder
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28966
+#EXTINF:0 tvg-id="ext" group-title="Channels",A&E H.265 Encoder
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28967
+#EXTINF:0 tvg-id="ext" group-title="Channels",CHV H.265 Encoder
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28968
+#EXTINF:0 tvg-id="ext" group-title="Channels",Comedy Central H.265 Encoder
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28969
+#EXTINF:0 tvg-id="ext" group-title="Channels",Studio Universal H.265 Encoder
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28970
+#EXTINF:0 tvg-id="ext" group-title="Channels",SyFy H.265 Encoder
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28971
+#EXTINF:0 tvg-id="ext" group-title="Channels",Paramount Mexico H.265 Encoder
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28972
+#EXTINF:0 tvg-id="ext" group-title="Channels",FXM Mexico H.265 Encoder
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28973
+#EXTINF:0 tvg-id="ext" group-title="Channels",FX Mexico H.265 Encoder
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28974
+#EXTINF:0 tvg-id="ext" group-title="Channels",TNT Mexico H.265 Encoder
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28975
+#EXTINF:0 tvg-id="ext" group-title="Channels",Space Mexico H.265 Encoder
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28976
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sony Mexico H.265 Encoder
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28977
+#EXTINF:0 tvg-id="ext" group-title="Channels",Warner H.265 Encoder
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28978
+#EXTINF:0 tvg-id="ext" group-title="Channels",Golden Mexico H.265 Encoder
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28979
+#EXTINF:0 tvg-id="ext" group-title="Channels",Golden Edge H.265 Encoder
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28980
+#EXTINF:0 tvg-id="ext" group-title="Channels",Cinemax Latino H.265 Encoder
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28981
+#EXTINF:0 tvg-id="ext" group-title="Channels",Cinecanal H.265 Encoder
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28982
+#EXTINF:0 tvg-id="ext" group-title="Channels",Multi Cinema Latino H.265 Encoder
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28983
+#EXTINF:0 tvg-id="ext" group-title="Channels",Star Channel H.265 Encoder
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28984
+#EXTINF:0 tvg-id="ext" group-title="Channels",Star Hits H.265 Encoder
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28985
+#EXTINF:0 tvg-id="ext" group-title="Channels",Star Series H.265 Encoder
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28986
+#EXTINF:0 tvg-id="ext" group-title="Channels",Star Fun H.265 Encoder
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28987
+#EXTINF:0 tvg-id="ext" group-title="Channels",Star Action H.265 Encoder
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28988
+#EXTINF:0 tvg-id="ext" group-title="Channels",Star Action EN H.265 Encoder
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28989
+#EXTINF:0 tvg-id="ext" group-title="Channels",Star Life H.265 Encoder
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28990
+#EXTINF:0 tvg-id="ext" group-title="Channels",HBO Family H.265 Encoder
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28991
+#EXTINF:0 tvg-id="ext" group-title="Channels",HBO Xtreme H.265 Encoder
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28993
+#EXTINF:0 tvg-id="ext" group-title="Channels",HBO Pop H.265 Encoder
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28994
+#EXTINF:0 tvg-id="ext" group-title="Channels",HBO Mundi H.265 Encoder
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28995
+#EXTINF:0 tvg-id="ext" group-title="Channels",HBO Oeste H.265 Encoder
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28996
+#EXTINF:0 tvg-id="ext" group-title="Channels",HBO 2 Latino. H.265 Encoder
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28997
+#EXTINF:0 tvg-id="ext" group-title="Channels",Discovery Channel H.265 Encoder
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28998
+#EXTINF:0 tvg-id="ext" group-title="Channels",Discovery Theater H.265 Encoder
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28999
+#EXTINF:0 tvg-id="ext" group-title="Channels",Discovery Turbo H.265 Encoder
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/29000
+#EXTINF:0 tvg-id="ext" group-title="Channels",Discovery TLC H.265 Encoder
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/29001
+#EXTINF:0 tvg-id="ext" group-title="Channels",Discovery Home & Health H.265 Encoder
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/29002
+#EXTINF:0 tvg-id="ext" group-title="Channels",Discovery Kiids H.265 Encoder
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/29003
+#EXTINF:0 tvg-id="ext" group-title="Channels",ID H.264 Encoder
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/29004
+#EXTINF:0 tvg-id="ext" group-title="Channels",History Channel H.265 Encoder
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/29005
+#EXTINF:0 tvg-id="ext" group-title="Channels",National Geo H.265 Encoder
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/29006
+#EXTINF:0 tvg-id="ext" group-title="Channels",FORO TV HD H.265 Encoder
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/29007
+#EXTINF:0 tvg-id="ext" group-title="Channels",MSG  H2.65 Encoder
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/29008
+#EXTINF:0 tvg-id="ext" group-title="Channels",ATT Sports Network Encoder
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/29009
+#EXTINF:0 tvg-id="ext" group-title="Channels",MSG + Network
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/29010
+#EXTINF:0 tvg-id="ext" group-title="Channels",EPIX
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/29013
+#EXTINF:0 tvg-id="ext" group-title="Channels",Universo H.265 Encoder
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/29014
+#EXTINF:0 tvg-id="ext" group-title="Channels",EPIX 2 US H.265 Encoder
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/29015
+#EXTINF:0 tvg-id="ext" group-title="Channels",MC H.265 Encoder
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/29016
+#EXTINF:0 tvg-id="ext" group-title="Channels",20/05 - 21:00 | Santos vs Puebla | FOX SPORTS 2 HD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/29019
+#EXTINF:0 tvg-id="ext" group-title="Channels",22/05 - 20:00 | Cruz azul VS Pachuca | TUDN PPV
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/29020
+#EXTINF:0 tvg-id="ext" group-title="Channels",23/05 - 19:00 | Puebla VS Santos | Azteca Deportes
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/29021
+#EXTINF:0 tvg-id="ext" group-title="Channels",AT&T SportsNet US
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/29024
+#EXTINF:0 tvg-id="ext" group-title="Channels",MSG US
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/29025
+#EXTINF:0 tvg-id="ext" group-title="Channels",FOX Sports Mex Encoder H.265
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/29028
+#EXTINF:0 tvg-id="ext" group-title="Channels",FOX Sports 2 Mex Encoder H.265
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/29029
+#EXTINF:0 tvg-id="ext" group-title="Channels",FOX Sports 3 Mex Encoder H.265
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/29030
+#EXTINF:0 tvg-id="ext" group-title="Channels",PPV DAZN F1
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/29033
+
+#EXTINF:0 tvg-id="avi" group-title="Videos",Narco Soldiers (2019)
+http://coresys.dvrdns.org:8080/movie/stalkerportal/UvrHfGiEXE/25234.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Godzilla vs. Kong (2021)
+http://coresys.dvrdns.org:8080/movie/stalkerportal/UvrHfGiEXE/28557.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Godzilla vs. Kong (CAM VER. TEAM)
+http://coresys.dvrdns.org:8080/movie/stalkerportal/UvrHfGiEXE/28553.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Let Him Go (2020)
+http://coresys.dvrdns.org:8080/movie/stalkerportal/UvrHfGiEXE/28731.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Looking Glass (2018)
+http://coresys.dvrdns.org:8080/movie/stalkerportal/UvrHfGiEXE/28732.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Lucy Shimmers And The Prince Of Peace (2020)
+http://coresys.dvrdns.org:8080/movie/stalkerportal/UvrHfGiEXE/28733.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Promising Young Woman (2020)
+http://coresys.dvrdns.org:8080/movie/stalkerportal/UvrHfGiEXE/28734.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Silk Road (2021)
+http://coresys.dvrdns.org:8080/movie/stalkerportal/UvrHfGiEXE/28735.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",The Mauritanian (2021)
+http://coresys.dvrdns.org:8080/movie/stalkerportal/UvrHfGiEXE/28736.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Iron Mask 2021
+http://coresys.dvrdns.org:8080/movie/stalkerportal/UvrHfGiEXE/28737.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",The Secrets We Keep (2020)
+http://coresys.dvrdns.org:8080/movie/stalkerportal/UvrHfGiEXE/28738.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Thunder Force (2021)
+http://coresys.dvrdns.org:8080/movie/stalkerportal/UvrHfGiEXE/28739.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Unhinged (2020)
+http://coresys.dvrdns.org:8080/movie/stalkerportal/UvrHfGiEXE/28740.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Mortal Kombat
+http://coresys.dvrdns.org:8080/movie/stalkerportal/UvrHfGiEXE/28799.mp4
+
